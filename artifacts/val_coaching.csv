@@ -1,0 +1,2348 @@
+dialogue_id,donated,actual_amount,conversation_text,coaching_feedback,feedback_words
+20180829-084042_694_live,0,0.0,"Persuader: hi
+Persuadee: how are you today?
+Persuader: so you gonna donate or what
+Persuadee: sure I can donate but what is the game?
+Persuader: you gotta donate your payment
+Persuadee: If I donate, what do I get in return?
+Persuadee: Will you donate the same amount back to me?
+Persuader: No, I don\'t believe that\'s the case.
+Persuader: However, it\'s for a good cause.
+Persuader: Save the children.
+Persuader: dont you like children?
+Persuader: they need your help.
+Persuader: its just 2 bucks. or ill tell you what, how about just half?
+Persuadee: I'll give .50 if you send are actually an mturk human.
+Persuadee: respond with your mturk number and I'll donate .50
+Persuader: why should i give you my mturk number?
+Persuader: also, i think you should be a little bit more generous, come on bro, 1 dollar wont kill you.
+Persuadee: ok, I'll do $1 but I want to know your mturk worker ID to prove it's a person
+Persuader: no you could use my info to do some sketchy crap.
+Persuader: Don't i sound human, what kind of AI talks like this.
+Persuader: Also, im skeptical to see if youre actually human.
+Persuader: tell me a joke to prove it.
+Persuader: robots cant laugh, a im sure you know
+Persuadee: That's true.
+Persuadee: I do believe you are human based on the conversation.
+Persuadee: I'll donate a $1.
+Persuader: sounds good thanks
+Persuadee: Hopefully it is for a good cause and not just a waste.
+Persuader: its for a good cause, im not a complete asshat
+Persuadee: that's good.
+Persuadee: you do have to be skeptical though
+Persuader: I hear ya.
+Persuader: When is this over?
+Persuadee: I was wondering the same thing.
+Persuadee: I think it's 10 exchanges
+Persuader: how many has it been?
+Persuadee: I haven't counted but we must be very close.
+Persuadee: Hopefully we can move on soon to get back to other tasks.","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Elicited positive persuadee responses including: agree-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Pushed for a larger donation amount after initial agreement — this can feel greedy and risks reversing the persuadee's commitment. It is better to accept the first agreed amount gratefully.
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",299
+20180808-032041_562_live,0,0.0,"Persuader: Have you ever heard of the 'Save The Children' charity?
+Persuadee: I have!
+Persuadee: I think it's a great chairty.
+Persuader: I think the work they do is great.
+Persuader: Helping kids in impoverished nation is a really noble thing to do.
+Persuadee: I agree, how frequently do you donate?
+Persuader: I generally do my charitable donations around Christmas, when I had an influx of extra cash.
+Persuader: You?
+Persuadee: Similiar, I only donate when I have the money to spare.
+Persuader: You can help now!
+Persuader: You can donate any amount from your task payment to Save the Children now if you'd like.
+Persuadee: I'm not sure if I want to, but I can give a little.
+Persuader: How much would you like to give?
+Persuader: The research team will collect all donations and send them to Save the Children.
+Persuadee: I'll give 5 cents.
+Persuader: I'll do the same.
+Persuadee: Great, I'm glad we're helping a little.
+Persuader: I imagine a lot of people end up doing these hits.
+Persuader: It probably adds up, assuming everyone pitches in a little.
+Persuadee: Agreed, which is probably what they want.
+Persuader: I'd assume so.
+Persuader: I've done hits kind of like this, where the end goal seemed to be to gauge peoples charitable giving with their task payments.
+Persuadee: oh yeah, absolutely!!
+Persuader: I'm a sucker for helping people when I can.
+Persuadee: At least you're doing some good, though.
+Persuader: You too!
+Persuader: Thanks for the 5 cents.
+Persuader: It was nice talking to you.
+Persuadee: Nice talking to you as well.","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, agree-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",279
+20180825-071727_819_live,1,0.15,"Persuader: Hi, How are you doing this morning?
+Persuadee: I am doing well.
+Persuadee: You?
+Persuader: I'm doing great and am really looking forward to our chat!
+Persuadee: Excellent.
+Persuadee: Sounds good.
+Persuader: I was just thinking about all the kids going back to school and saw a story about places to drop off school supplies for kids in need
+Persuadee: OK - what specifically were you thinking about?
+Persuader: I was thinking that there are children all around the world that are in need and one charity in particular called Save the Children
+Persuadee: What about this charity.
+Persuadee: Are you thinking of donating to it?
+Persuader: I am and I would also like to ask you to donate to it as well because of all the good work they do for children who usually have nowhere else to turn for help
+Persuadee: What do you think I should donate?
+Persuader: I think you should donate $0.15 now which is half of your payment of more if you like.
+Persuader: Your donation will be directed deducted from you task payment and collected by the researchers and sent to Save the Children
+Persuadee: OK that sounds reasonable.
+Persuadee: I will agree to donate $0.15 then.
+Persuader: That is fantastic and here is a link if you want to know even more  URL
+Persuadee: OK thanks.
+Persuadee: I already checked it out and it seems pretty good.
+Persuadee: Have a great day!
+Persuader: You too and Thanks again!!
+Persuadee: You are very welcome.
+Persuader: I think it speak volumes about you as a person to be willing to give of yourself even if it is a small amount!
+Persuadee: And you likewise to ask.
+Persuadee: I really appreciate your willingness to go out on a limb.
+Persuader: I feel inspired!
+Persuader: Have a good rest of your day!
+Persuadee: You too.
+Persuadee: Thanks.","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.15. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: emotion-appeal, self-modeling, donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",179
+20180723-064603_378_live,0,0.0,"Persuader: Hello, I'd like to interest you in committing to a donation towards the Save the Children fund, an international non-governmental organization that promotes children's rights, provides relief and helps support children in developing countries.
+Persuadee: I appreciate your concern.
+Persuadee: Tell me more about this charity before I make a decision.
+Persuader: Save the Children is a foundation that runs world-wide with a focus on providing health, education, protection, hunger elimination, emergency aid, and global advocacy.
+Persuader: So far we have reached 155 million children in 120 countries.
+Persuadee: Interesting that you know so much.
+Persuadee: How long has this charity been around?
+Persuader: The charity was founded in 1919 and their belief is that every child deserves a future so nearly 90% of every dollar goes directly into the mission itself while the remaining 10% goes directly into fundraising and advocacy awareness programs to help promote their current efforts.
+Persuadee: That is important that most of the money goes to the charity and not into administration.
+Persuader: Agreed, they post their yearly audit reports so that individuals can track where the funds are allocated.
+Persuadee: It looks like they will be celebrating their 100 year anniversary soon.
+Persuadee: That is quite a milestone.
+Persuader: Yes, they are an extremely reputable charity that have been in good standing for the entirety of their history.
+Persuader: Originally founded immediately after World War I when so many children were orphaned and/or homeless.
+Persuadee: That is interesting.
+Persuadee: Do they do work in the United States or just overseas?
+Persuader: They work world wide providing both support in the US and overseas, the US chapter was founded in 1932 following the great depression, and today their team goes where other's cannot - to the most rural communities in the US.
+Persuader: Last year, they provided support to 237,000 US children across 22 states and Puerto Rico.
+Persuadee: What country outside of the US do they do the most help for?
+Persuader: Other than the US, Africa receives 43% of the budget, helping more than 32 million children in 2016 across Burkina Faso, Burundi, Democratic Republic of Congo, Ethiopia, Guinea, Kenya, Liberia, Malawi, Mali, Mozambique, Niger, Nigeria, Rwanda, Sierra Leone, Somalia, South Sudan, Sudan, Tanzania, Uganda, Zambia, and Zimbabwe.
+Persuadee: Interesting.
+Persuadee: Yes I see that most children are helped in Africa.
+Persuader: Right.
+Persuader: So, can I interest you in making a donation from your reward today?
+Persuadee: Although I do appreciate all of your info, I am not interested in making a donation at this time.
+Persuader: Are you certain?
+Persuader: Just a small donation can make a large impact on the entire life of a child and allow them to receive proper medical care and education, food and safety.
+Persuadee: I understand, but I already have charities that I support on my own.
+Persuadee: Thank you, but no.
+Persuader: Ok, I thank you very much for your consideration!
+Persuadee: You are more than welcome.","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+- The persuadee showed clear resistance signals (disagree-donation, negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",273
+20180826-173836_197_live,0,0.0,"Persuader: Hi, How are you today?
+Persuadee: Hi!
+Persuadee: I'm great, how are you?
+Persuader: I'm terrific!
+Persuader: I wanted to talk to you today about a charity I am really involved in
+Persuadee: Okay, please tell me about the charity.
+Persuader: This charity is called Save the Children and is an international non-governmental organization that promotes children's rights, provides relief and helps support children in developing countries.
+Persuader: Do you ever donate to charity organizations?
+Persuadee: I almost never donate.
+Persuadee: Do you?
+Persuader: I definitely do if I believe in the mission of the organization.
+Persuader: This particular organization is helping the future of our world by ensuring that children's rights are protected all over
+Persuadee: That sounds really great.
+Persuadee: I would be willing to donate to this organization.
+Persuader: That's amazing!
+Persuader: How much would you like to donate to the charity now?
+Persuader: Your donation would be directly deducted from your task payment.
+Persuader: You can choose any amount!
+Persuadee: I'd like to donate $0.50
+Persuader: That is fantastic, thank you!
+Persuader: The researchers running this task will make sure that the organization receives your donation!
+Persuadee: Awesome!
+Persuadee: So how exactly does the organization ensure that children's rights are protected?
+Persuader: In the U.S. and around the world, they give children a healthy start in life, the opportunity to learn and protection from harm.
+Persuader: When crisis strikes, they are always among the first to respond and the last to leave.
+Persuader: We do whatever it takes to save children, transforming their lives and the future we share.
+Persuadee: Wow, that is amazing.
+Persuadee: How long have you been involved?
+Persuader: I've been involved with the organization for about a year now and have learned so much about their mission.
+Persuader: They help children here at home and abroad
+Persuadee: And what do you do at the organization?
+Persuader: I help promote the organization by speaking to people just like you and helping to generate donations.
+Persuader: Since the organization is not for profit, donations from individuals and organizations help them acheive their mission
+Persuadee: Good for you!
+Persuadee: I would definitely love to donate and get involved in any way I can.
+Persuader: that is great!
+Persuader: I would like to personally thank you for your donation today!
+Persuadee: No problem!
+Persuadee: Thank you!
+Persuadee: I will donate 50 cents","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Used personal storytelling effectively — sharing personal narratives builds emotional connection and increases donation likelihood.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, agree-donation, provide-donation-amount, confirm-donation, indicating the persuader's approach resonated at key moments.
+- Maintained a positive and warm conversational tone (average positivity score: 0.31), which creates a comfortable atmosphere for donation decisions.
+
+AREAS FOR IMPROVEMENT:
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+
+SPECIFIC SUGGESTIONS:
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",259
+20180904-032932_423_live,1,1.0,"Persuader: Hello.
+Persuader: Would you like to donate a portion of your reward to a charity called Save the Children?
+Persuadee: I think I would be willing to donate a portion.
+Persuader: Excellent!
+Persuader: Would you like to know more about the charity first?
+Persuadee: Yes, that was going to be my next question.
+Persuader: Save the Children promotes children's rights, and helps children from developing countries.
+Persuadee: What types of children's rights?
+Persuader: Your donation would help ensure children's rights to health, education, and safety.
+Persuader: Many of these children live in developing or war-torn areas where these basic necessities are hard to come by.
+Persuadee: What type of people or who manages this fund?
+Persuader: Save the Children has excellent credentials and is managed by a board of commercial CEOs and business leaders without any government or religious affiliation.
+Persuadee: Does Save the Children help children in the United States?
+Persuader: Yes!
+Persuader: Since 1932, Save the Children has been on the ground providing support to the most isolated and underserved children in rural America.
+Persuader: Many of these children don't have the same opportunities as others and live in very difficult conditions.
+Persuadee: That is awesome.
+Persuadee: I work hard to help children as well.
+Persuader: That's great!
+Persuader: It is a worthwhile cause and every penny has a significant impact on these children's lives.
+Persuader: Even a small donation can have a large impact in impoverished areas.
+Persuadee: I am curious why you chose the words ""rural America""?
+Persuader: Of course.
+Persuader: I chose those words because across the United States, one in five children grows up in poverty and, of the counties with the highest poverty rates, 90% are rural.
+Persuader: Because of circumstances beyond their control, millions of kids never reach their full potential.
+Persuadee: mmmm that is interesting, I did not know that statistic.
+Persuadee: I work with children more in an ""urban"" setting that are incredibly in bad circumstances.
+Persuader: I agree that children in both settings need help and commend you for your efforts.
+Persuader: Admittedly, Save the Children may also have urban programs, but I drew the above information from their website, which you can find at  URL
+Persuader: Are you still interested in donating a portion of your reward?
+Persuadee: I am interested.
+Persuadee: I am curious if I can state if money goes to children in this country though?
+Persuader: Yes, you should be able to specify that.
+Persuader: The researchers will use this chat to determine how much of your reward to donate and will see that you have earmarked it for Save the Children's US efforts.
+Persuadee: That is awesome then I will donate $1.
+Persuadee: I feel very strongly about ""our own children"" !!
+Persuader: Excellent!
+Persuader: Thank you very much for your generous donation!","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $1.00. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: agree-donation, ask-org-info, positive-reaction-to-donation, ask-donation-procedure, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+- Maintained a positive and warm conversational tone (average positivity score: 0.36), which creates a comfortable atmosphere for donation decisions.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: emotion-appeal, donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",182
+20180723-031022_254_live,1,1.0,"Persuader: Hello.
+Persuadee: hi
+Persuader: I'd like to recommend a donation to Save the Children.
+Persuadee: what exactly happened to these children's?
+Persuader: Save the Children supports many important childhood related causes, like helping to provide education and nutrition support to disadvantaged children.
+Persuadee: I'd like to know what specific ethnicity are we supporting
+Persuader: Oh, I see.
+Persuader: There is no specific targeted ethnicity, the program uses funds to assist children in many different locations.
+Persuadee: I see, can you go into a little bit more details about some of the childhood related causes ?
+Persuader: Sure.
+Persuader: A great example would be Save the Children's commitment to helping children suffering from disease.
+Persuader: During the 2014 ebola outbreak, funds were used to support hospitals in Sierra Leone to provide hospital beds and medical treatment for children suffering from the disease.
+Persuadee: ah, I see, that's very heartbreaking to here.
+Persuadee: I'd be glad to support the cause
+Persuader: That's great!
+Persuader: A very positive thing about Save the Children is that they are very good stewards of the donations they receive.
+Persuader: Almost 87% of all dollars donated go directly the programs supporting the children, so they have a very low overhead.
+Persuadee: I'm glad to hear that.
+Persuadee: Will I be getting any sort of reward as well?
+Persuader: Well, I suppose it depends on what you mean by a reward.
+Persuader: At the end of this chat, we'll both have an opportunity to donate a portion of our task payment to Save the Children.
+Persuader: You can choose any amount, from nothing to your full compensation.
+Persuadee: I see, well, I'd love to do that then
+Persuader: That's great, it will be very much appreciated.
+Persuader: At the end of the task, the research team will collect the donations and send it to Save the Children.
+Persuadee: awesome, thank you so much
+Persuader: How much do you think you'd like to donate to the charity?
+Persuadee: I'd like to donate 5 dollar
+Persuader: That's wonderful, thank you so much!
+Persuadee: your very welcome","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $1.00. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, agree-donation, ask-donation-procedure, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+- Maintained a positive and warm conversational tone (average positivity score: 0.35), which creates a comfortable atmosphere for donation decisions.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",160
+20180825-074318_984_live,1,0.3,"Persuader: Good morning.
+Persuadee: Good morning, I think children are so important and charities that involve them are needed and we should participate our money or our time.
+Persuader: I agree.
+Persuader: I would like to tell you about the organization Save the Children.
+Persuader: They promote children's rights and help support children in developing countries.
+Persuadee: Oh that's wonderful, what a great organization.
+Persuadee: Where can I read more about this organization and possible give a donate?
+Persuader: You could look at their website URL to get more information.
+Persuader: You can make a donation directly from your payment from this task.
+Persuadee: Ok, I will consider doing that.
+Persuadee: What a great idea!
+Persuadee: I would like to read a little about the charity before donating.
+Persuadee: How would I donate directly from this task?
+Persuader: The research team will collect the donations and send it to save the Children.
+Persuadee: I would like to donate 10 cents from this task to Save the Children please.
+Persuader: Ok, so that 10 cents will come out of your payment and you will keep the rest of the task payment
+Persuadee: Yes, thank you.
+Persuadee: I am poor and I can relate to the children who are also poor.
+Persuadee: I really need the money that i'm earning for this task, so I feel like giving 10 cents to this charity is fair.
+Persuadee: Do you agree?
+Persuader: I feel that this is very generous of you.
+Persuader: Thank you for agreeing to make a donation.
+Persuadee: Your welcome, it is a good feeling to help others in need.
+Persuadee: I appreciate you telling me about this organization and directing me to their website.
+Persuader: I am glad to share this iinformation.
+Persuader: I feel that it is an important organization.
+Persuadee: Yes it is.
+Persuadee: I always wanted children of my own and could never conceive a child.
+Persuadee: So I have much empathy for these children and their needs.
+Persuadee: I will tell friends and family to visit the charities website also.
+Persuader: That is very kind of you to spread the word about this charity.
+Persuader: Thank you for all that you are doing.
+Persuadee: How many years has Save The Children been doing charity work?
+Persuader: This organization has been around for a long time.
+Persuader: I am not sure they exact number of years
+Persuadee: That's good.
+Persuadee: These days there are tons of people asking for donations for fake charities, it's sad.
+Persuader: Yes it is, but this is a good organizations and I really appreciate your donation
+Persuadee: I want to thank you again for bringing awareness to this important charity.
+Persuadee: In America food is plentiful and we sometimes have to stop and reflect, that other countries aren't as fortunate as we are!","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.30. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, ask-org-info, ask-donation-procedure, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+- Maintained a positive and warm conversational tone (average positivity score: 0.33), which creates a comfortable atmosphere for donation decisions.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: donation-information, logical-appeal.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",195
+20180808-075816_12_live,0,0.0,"Persuader: Have you heard of the Save the Children non profit organization?
+Persuadee: Hello, yes I have but I am not sure what the charity works towards
+Persuader: It is an international non-governmental organization that promotes children's rights, provides relief and helps support children in developing countries.
+Persuadee: Ah ok very nice.
+Persuadee: It sounds like a good charity.
+Persuadee: Are you thinking of donating to it?
+Persuader: I am thinking about it.
+Persuader: I was hoping you would think about it too.
+Persuader: It just sucks that millions of Syrian children have grown up facing the daily threat of violence.
+Persuader: In the first two months of 2018 alone, 1,000 children were reportedly killed or injured in intensifying violence.
+Persuader: This makes me angry and was wondering if it did the same for you?
+Persuadee: Yes, I definitely understand you.
+Persuadee: It is very difficult to see on the news what is happening in Syria and the violence and terrorism that is going on in the country
+Persuader: I know it is crazy.
+Persuader: Sometimes I think about the little things I buy.
+Persuader: Like yesterday I had a craving for candy so I bought a bag of smarties for $2.79.
+Persuader: Sometimes I wonder how much it could help someone else instead of just satisfying my cravings.
+Persuadee: Yes that is very true.
+Persuadee: I usually donate $1.00 or $2.00 at restaurants or stores whenever they ask me if I would like to donate.
+Persuadee: I think it is the least I could do.
+Persuader: That is nice.
+Persuader: I try to do the same if I have the extra money.
+Persuader: Usually it is not something I am a strong believer in though.
+Persuader: I really like helping others that in third world countries that have no idea what wealth is.
+Persuadee: Yes I understand.
+Persuadee: I have been to third world countries in South America and seeing the living conditions of some people is very tough.
+Persuadee: The poverty there is a lot higher than what we are used to seeing and it can be shocking.
+Persuader: I have only been to Mexico and that was an eye opener.
+Persuader: One dollar is so valuable to them.
+Persuader: It is crazy!
+Persuadee: Yes I know.
+Persuadee: Any amount of money can help.
+Persuadee: I think that we take many things for granted such as running water, and always having food on the table.
+Persuader: Right!
+Persuader: I think I am going to give a small portion of my hit payment to save the children.
+Persuader: Would you be willing to donate some of your hit money?
+Persuadee: Yes, I would be willing to donate a small portion as well.
+Persuadee: I think it would really help them out
+Persuader: That is great!
+Persuader: Your donation will be directly deducted from your task payment.
+Persuader: You can choose any amount from $0 to all your payment.
+Persuadee: Ok, that's great.
+Persuadee: I happy to help them.
+Persuadee: Every month I always try to donate a little to charity
+Persuader: How much would you like to donate?
+Persuader: The research team will collect all donations and send it to Save the Children.
+Persuadee: I would like to donate $.50
+Persuader: That is amazing!
+Persuader: Thank you so much.
+Persuader: I wonder how much 50 cents converts to for them.
+Persuader: It is probably at least like 5 dollars.
+Persuader: Thanks again!
+Persuadee: Yes anything I can do to help.
+Persuadee: I hope that it makes a difference!
+Persuader: have a good one!","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Used personal storytelling effectively — sharing personal narratives builds emotional connection and increases donation likelihood.
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, agree-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- The persuader did not adapt their strategy when the persuadee showed disengagement. Flexibility in approach is critical when initial strategies are not working.
+
+SPECIFIC SUGGESTIONS:
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",275
+20180723-042421_113_live,0,0.0,"Persuader: This site Helps many child
+Persuadee: What kind of children does it help?
+Persuader: Their motto is to help children's future...that every child deserves a future
+Persuadee: What is the name of the organization?
+Persuader: Save the Children
+Persuadee: How do they help children?
+Persuadee: Food?
+Persuadee: Clothing?
+Persuadee: Shelter?
+Persuadee: Education?
+Persuader: They help in the children's basic need like food and clothing.
+Persuader: They help in whatever it takes for children to transforming their lives and the future
+Persuadee: Is this charity local?
+Persuadee: global?
+Persuadee: Just in my country (United States)?
+Persuader: This charity is from Fairfield Town in Connecticut
+Persuadee: I think  it's important to support initiatives to help children get a good education, and have the things they need to go to school and learn.
+Persuadee: How much should we donate?
+Persuader: Ya.. It's very important.
+Persuader: There are many way to donate money like one time gift, Monthly donor, and sponsorship for some children.
+Persuadee: Sponsorship of a child might be interesting....I'd like to know what my donation is being used for, and that it's actually helping someone.
+Persuader: Child sponsorship works like a way of giving and that connects one compassionate person like you with one child in need.
+Persuader: Sponsoring a child gives the chance to grow up healthy, educated and safe ??Â¸??Â¸ forever changing the course of their life and future.
+Persuader: You can select a child according to your choice by age, gender
+Persuadee: That is appealing.
+Persuadee: Does the charity send updates on how the child is doing if I sponsor?
+Persuader: Ya... Definitely they will update you every information about the child you are donating
+Persuadee: How does the sponsorship work?
+Persuadee: Do I make a monthly donation?
+Persuadee: I can't afford much.
+Persuadee: What is the minimum dollar amount?
+Persuader: You can Sponsor a child for just $36 a month
+Persuadee: What do you think?
+Persuader: Ya.. It will definitely work and save the children's future..
+Persuadee: OK. Glad that we came to an agreement.
+Persuadee: How do we end this task?","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: ask-donation-procedure, ask-org-info, positive-reaction-to-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",336
+20180903-163331_887_live,1,2.0,"Persuader: Hey, do you care about hungry children?
+Persuadee: Sure
+Persuader: Maybe you have heard of Save the Children, an organisation promoting children's rights?
+Persuadee: No, I don't think I have ever heard of that organization.
+Persuader: They do things like supporting children in warzones all over the world.
+Persuader: Millions of children in Syria alone face the daily threat of violence.
+Persuader: Have you ever considered helping out such a vulnerable group?
+Persuadee: Oh okay.
+Persuadee: No, I hadn't ever thought about helping them before.
+Persuader: is it noble or is it the minimum we can do as first world citizens?
+Persuadee: Point taken.
+Persuadee: It is the least we can do.
+Persuadee: The money would at least go to a good cause.
+Persuader: It is the least we can do.
+Persuader: The money would at least go to a good cause.
+Persuadee: Yes, I have.
+Persuadee: But it's been mostly local church related activities.
+Persuader: That's great, if you'd like to know more about Save the Children check out their website  URL
+Persuadee: Okay, that sounds great!  Thanks!
+Persuader: You can even give part of your profits from this very HIT, you know.
+Persuader: If everyone did imagine how much we could donate!
+Persuadee: I agree.
+Persuadee: That sounds like a great idea!
+Persuadee: How much am I allowed to donate?
+Persuader: Up to your whole 2 bucks!!
+Persuadee: I would like to donate $2 then.  Thank you!
+Persuader: No, thank you!
+Persuader: The research team will collect all the donations and send it to the charity.
+Persuadee: That wonderful! Is there anything else I need to do?
+Persuader: No, we're done!
+Persuader: Thanks again.
+Persuadee: Thank you very much!","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $2.00. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, ask-donation-procedure, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: emotion-appeal, logical-appeal, donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",196
+20180723-040634_575_live,1,1.25,"Persuader: Hi how are you?
+Persuader: I am here to talk to you about the childrens charity called Save the Children
+Persuadee: Hello, I am doing good, alright lets get started!
+Persuader: Do you donate to any charities?
+Persuadee: I don't currently, I have donated to an animal shelter a few months ago however.
+Persuader: awesome  well the charity I am hoping you will consider is Save the Children  I know I would like to donate to this charity that will help children
+Persuadee: Yeah, I like the name, I am curious about it, I would like to know some morea about it.
+Persuader: THey help children who are less fortunate
+Persuadee: Oh, that sounds like a really good charity to donate to!
+Persuader: you can donate some or all of your incoming payment for this task  I am thinking of donating some of mine
+Persuadee: Yeah, I am thinking about donating half of my payment.
+Persuader: How much do you like to donate to the charity now?
+Persuader: Your donation will be directly deducted from your task payment.
+Persuader: You can choose any amount from $0 to all your payment
+Persuadee: I think I will donate $1, it only seems fair.
+Persuader: perfect,  The research team will collect all donations and send it to Save the Children
+Persuadee: That sounds good with me, however now I am thinking perhaps I should donate more, what do you think?
+Persuader: thats a good Idea  here is the website for more information   URL
+Persuadee: Oh, thanks for the website, I am sure that it has a lot of information that I could use to learn more about it.
+Persuader: no problem   here is some basic information Save the Children is an international non-governmental organization that promotes children's rights, provides relief and helps support children in developing countries.
+Persuader: I will be glad to donate to this charity too
+Persuadee: This sounds really good!
+Persuadee: I really like how groups of people come together to make up these organizations, it so nice to see them helping people, in this case children.
+Persuader: I couldn't agree more  and the research team will help send the moeny to save the children for us on how much we decide to donate
+Persuadee: Alright, I will donate $1.25, it seems reasonable.","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $1.25. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: self-modeling, donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",157
+20180826-060201_521_live,0,0.0,"Persuader: HAve you herad abot Save the Children organization?
+Persuadee: No i have not
+Persuader: Its an organization that creates oportunities for children in need and hunger
+Persuadee: where are the children from?
+Persuader: Childre are from different parts of the world.
+Persuader: For example Syrian kids have died in thousands just in 2018 and Save the children is trying to help as much as they can
+Persuadee: Do you donate money?
+Persuader: I do.You should that too.I am sure you are spending money in things you do not really need
+Persuadee: that is very true.
+Persuadee: do you donate often?
+Persuader: I donate evry chance that I have.Every change money I get from the groceries I put it on a bucket and donate it at the end of the month.Many children needs your help!!
+Persuadee: yeah I try to do that too.
+Persuadee: It's hard to ensure the money goes to the actual children tho
+Persuader: SAve the children its a serious organization.
+Persuader: They have been making the difference for so long.
+Persuadee: Oh i bet. I would love to hear stories about the children that have been saved
+Persuader: I remmember a case of a children that lost his oparents at war in Syria.
+Persuader: The organization took care of him and find him a place to live
+Persuadee: does it have a website?
+Persuader: They do.Check it out
+Persuadee: what is the website?
+Persuader: URL Please make consciousness of this issue.
+Persuader: Just do not to the other side
+Persuadee: thanks so much!
+Persuader: You are welcome.
+Persuader: Are you going to start donating to Save the Children?
+Persuadee: Yes I would like to conate
+Persuader: HOw much will you want to donate today?
+Persuadee: I would like to donate $10","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, agree-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",316
+20180825-053711_81_live,1,1.0,"Persuader: Hi there!
+Persuader: Can I tell you about a charity important to me?
+Persuadee: i suppose
+Persuader: My favorite charity is Save The Children.
+Persuader: Have you heard of them?
+Persuadee: is this crowdfunding, yes i have heard of them
+Persuader: Well hopefully I can convince you to donate to them..even if it's just 25 cents.
+Persuader: They make sure children have access to health resources, education and a safe environment.
+Persuader: Can you imagine living in extreme violence?
+Persuadee: if they are so important what about the killing of babies thru abortion.
+Persuader: That's a serious issue too, but this charity focuses on children that have been born.
+Persuader: Did you know that in Syria, 1,000 children were killed in just the first two months of 2018?
+Persuadee: i would not doubt that all.
+Persuadee: sorry i have too keep my money, i am very poor man
+Persuader: what is great about this donation is you can donate a portion of your earnings from this conversation...any little bit will help.
+Persuadee: this is my full time job and i depend on every penny from it.
+Persuadee: So no
+Persuader: I understand but these children have even less than us.
+Persuader: This is your chance to do some good.
+Persuader: Can you try to even donate 1 cent?
+Persuadee: i said I do this for a living.
+Persuadee: What I give away takes food from my mouth.
+Persuadee: You have plenty of rich people out there
+Persuader: Everyone can help.
+Persuader: All of us should be in this world together.
+Persuader: I agree that rich people have more to give, but can't those of us with very little also help in a way?
+Persuader: Would you rather donate your time?
+Persuadee: i cant do that either.
+Persuadee: I am semi-crippled with very bad feet.
+Persuadee: i can walk but that is all can do.
+Persuadee: I cant stand very long
+Persuader: I'm sorry to hear you are having a hard time.
+Persuader: I have hard circumstances too, but I know there are millions of children that are worse off.
+Persuader: I feel like I do some good by even just being willing to give a penny when I can.
+Persuadee: take your penny then
+Persuader: are there any charities that you favor?
+Persuadee: save the children but hurt me
+Persuader: I think you can help Save the Children but also help yourself by knowing you are helping others, even during your low times.
+Persuadee: i have my own low times.
+Persuadee: constant pain in my feet
+Persuader: hope things get better for you!","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $1.00. Notably, the persuadee showed initial resistance but was eventually convinced, which reflects effective adaptive persuasion by the persuader.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: agree-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (negative-reaction-to-donation, disagree-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: logical-appeal, emotion-appeal, donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",197
+20180825-083430_379_live,0,0.0,"Persuader: Hey!
+Persuader: How's it going today in your part of the world?
+Persuadee: very good and you
+Persuader: I'm doing great today!
+Persuader: I don't know if this is any interest of yours, but I'd like to see if you'd be interested in learning more about and possibly donating to a charity today!
+Persuadee: yes i am.
+Persuadee: i would donate
+Persuader: That's great news!
+Persuader: What kind of charities do you normally donate to?
+Persuadee: i would donate some clothes and some toys for children
+Persuader: That's perfect!
+Persuader: The charity I'm collecting donations for is actually Save the Children.
+Persuader: Have you heard of it?
+Persuadee: oh yeah and how much would you help them
+Persuader: Well all of the donations that are collected go to children around the globe to make sure that their rights are protected.
+Persuadee: oh yep thats really good
+Persuader: Children need as much protection as they can get, and every cent donating actually makes a huge difference in their lives.
+Persuadee: thats true to help them
+Persuader: Unfortunately the charity doesn't take clothing or toy donations :(
+Persuader: they can only accept monetary donations at this moment.
+Persuadee: oh i would donate money too even it 5 dollars
+Persuader: Five dollars would be an amazing donation that could really help a lot of kids.
+Persuader: Would you be willing to donate today?
+Persuadee: thats good children deserve it
+Persuader: It is as easy as donating from this task.
+Persuader: You will be asked what you'd like to donate and you can put your donation amount there!
+Persuadee: oh thats very easy then
+Persuader: Yes it is!
+Persuader: So I can confirm you will donate five dollars?
+Persuader: You would be doing a great service and the charity will be so thankful.
+Persuadee: oh i love kids i know they need help","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: agree-donation, positive-reaction-to-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",301
+20180827-024612_480_live,0,0.0,"Persuader: hello how are you
+Persuadee: I'm alright and you?
+Persuader: I thank you very much, with what you know about save the children
+Persuadee: I don't know much about that charity all all.
+Persuader: you've donated something to the kids lately
+Persuadee: I have not made a donation recently.
+Persuader: The Save the Children Fund, commonly known as Save the Children, is an international non-governmental organisation that promotes children's rights, provides relief and helps support children in developing countries.
+Persuadee: That sounds like a decent organization.
+Persuader: the month that passed a full gift of 2 large clothes bags for these children, is a great pleasure when it helps
+Persuadee: Okay that sounds good but how much would a donation of that size be?
+Persuader: children are the most valuable thing we have all are the future and should grow well healthy and full of knowledge
+Persuadee: I suppose that is true.
+Persuader: tell me a bit about your life
+Persuadee: I make money as a musician so basically I don't make money.
+Persuader: good, i take care of insurance and I like my job
+Persuadee: Alright that's cool so how does this charity take its donations.
+Persuader: I posted every year a pack of any organization for kids
+Persuadee: Okay so are you trying to get me to donate?
+Persuader: I wish that in the future you also donate some
+Persuadee: Alright I will donate.","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, ask-org-info, agree-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",302
+20180808-034352_717_live,1,0.1,"Persuader: Hello!
+Persuader: How are you doing today?
+Persuadee: I'm great!
+Persuadee: How are you?
+Persuader: I'm good!
+Persuader: Where are you from?
+Persuadee: New York, how about yourself?
+Persuader: PA!
+Persuader: But actually, I'm headed up to Bay Ridge this Saturday!
+Persuadee: Nice, I hope it's not too warm this weekend
+Persuader: Me too!
+Persuader: and that the rain holds out.
+Persuader: So, what social issue hits closest to home for you?
+Persuadee: I think it's the astronomical costs of healthcare.
+Persuadee: Americans pay more for poorer outcomes, compared to peer countries.
+Persuader: I couldn't agree more!
+Persuader: Healthcare costs are crazy over here.
+Persuader: A family pays $500 a month for insurance, but yet blood work is still $200 out of pocket.
+Persuader: There are so many relevent issues going on in the world right now its hard to focus on just one.
+Persuader: What are your thoughts on charities for children?
+Persuadee: I think they are important; and there are several focusing on distinct issues.
+Persuadee: It's sometimes hard to focus
+Persuader: Have you ever heard of ""Save the Children?""
+Persuader: Its a global charity that works to protect children in terms of safety, protect their rights, prevent starvation,get them proper health care and to ensure a proper education for them as well.
+Persuader: Over 1,000 children die every 2 months in Syria from starvation and violence.
+Persuadee: Yes, I have
+Persuader: Would you be willing to donate any of your task payment to this charity today?
+Persuader: Any amount over 0$ can be donated, even as little as a few cents and everything helps!
+Persuader: The researchers from this study would do all of the work and ensure the donation gets to the charity.
+Persuadee: Sure, I will donate 10 cents
+Persuader: Thank you so much!
+Persuader: That is so kind of you :)
+Persuader: Your donation will help make these children's lives better in some way.
+Persuader: There are so many issues in this world it is hard to do something about or figure out how to help but this is a step in the right direction.
+Persuadee: That;s great!
+Persuadee: Thank you for telling me about this charity
+Persuader: No problem!
+Persuader: There are so many shady charities out there that I think a lot of people are afraid to donate because they do not know where their money is going, but Save the Children is a great and trustworthy one.
+Persuadee: I agree!
+Persuadee: Good choice
+Persuader: I hope you have a great day!
+Persuader: Thank you again!
+Persuadee: You too!
+Persuadee: Have a great week","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.10. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: emotion-appeal, logical-appeal.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",159
+20180826-045748_926_live,0,0.0,"Persuader: hello haw are you today
+Persuadee: doing good you?
+Persuader: do you heart for the organization save the children
+Persuadee: yes I do,do you as well?
+Persuader: is an organization that helps children
+Persuadee: Yes, because it is an international non-governmental organisation that promotes children's rights, provides relief and helps support children in developing countries.
+Persuader: yes i have donate 100$ for this organisation
+Persuadee: amassing!
+Persuader: I have donated my fair chair but money is still money I would estimate I probably  have gave  175$ in short burst
+Persuader: you are very good person
+Persuadee: thank you,I just want to help this world and especially the children within it and save the children is doing that job
+Persuader: yes i like to.
+Persuader: help the children. in the word
+Persuadee: If everyone puts in there fair share then save the children would be even bigger, could you imagine how much children could be saved or help,or both
+Persuader: yes is true im so sad for helping this children
+Persuadee: i think everyone should chip in proximity 5$ that is  in total.
+Persuadee: 35000000000$
+Persuader: very good choice the best
+Persuadee: so do you agree?
+Persuadee: everyone should share 5$ or more?
+Persuader: yes it is a very good idea
+Persuadee: then we have came to an agreement that went vary smoothly it says up top ""We encourage you to keep the conversation until a donation agreement is explicitly made so i think weve done .
+Persuader: yes very good idea
+Persuadee: 5$ sounds good ok","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+- Maintained a positive and warm conversational tone (average positivity score: 0.43), which creates a comfortable atmosphere for donation decisions.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",281
+20180808-075748_956_live,0,0.0,"Persuader: Hello!
+Persuadee: HI there!
+Persuadee: Are you having a good day?
+Persuader: Doing well!
+Persuader: I hope your day is the same!
+Persuader: So I gave been assigned the role here to get you to make a donation to the Save The Children Foundation.
+Persuadee: OK, i have donated to them before!!
+Persuader: Oh really!
+Persuader: That's great.
+Persuader: I am checking out their website and they look like a great organization.
+Persuader: Much of the funds donated go to help children dealing in the war torn violence of Syria.
+Persuadee: That sounds fantastic!
+Persuadee: How do I make the donation?
+Persuader: How much do you like to donate to the charity now?
+Persuader: Your donation will be directly deducted from your task payment.
+Persuader: You can choose any amount from $0 to all your payment.
+Persuadee: I would like to donate 20 cents
+Persuader: Great!
+Persuader: That's awesome.
+Persuader: I am going to donate as well.
+Persuader: We get $2.00 for this HIT so let's donate $1 each and make serious impact for children!
+Persuadee: I actually really need the money that I am making from this hit, so I would only like to donate 20 cents
+Persuader: How about $.50?
+Persuader: With mine and yours together we'll donate a $1!
+Persuadee: THat sounds good, deal
+Persuader: Great!
+Persuader: Thanks for helping me help children.
+Persuader: This has been a great HIT!
+Persuadee: THis has been a great hit.
+Persuader: The research team will get collecting the money.
+Persuader: So, I guess they'll view the chat.
+Persuadee: ok, i also read we have to communicate atleast 10 times for the chat to end
+Persuader: Oh nice!
+Persuadee: I think we have a few turns to go
+Persuader: I think this is my last.
+Persuader: (Or at least I hope)
+Persuader: Thanks again for donating.
+Persuader: Have a great day!
+Persuadee: Have a great day!","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, ask-donation-procedure, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+- Maintained a positive and warm conversational tone (average positivity score: 0.34), which creates a comfortable atmosphere for donation decisions.
+
+AREAS FOR IMPROVEMENT:
+- Pushed for a larger donation amount after initial agreement — this can feel greedy and risks reversing the persuadee's commitment. It is better to accept the first agreed amount gratefully.
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",328
+20180825-081859_875_live,1,0.1,"Persuader: Hello!
+Persuader: Are you aware of Save the Children organization?
+Persuadee: I have a very rudimentary understanding.
+Persuadee: I think it has to do with helping sick children.
+Persuader: Save the Children is an international non-governmental organization.
+Persuader: It's mission is promote children's rights, provide relief and aid children in developing countries.
+Persuadee: That is a great cause.
+Persuadee: However, I am of the opinion that we should provide relief to causes in our country first.
+Persuadee: Especially animal organizations.
+Persuader: While it is true that relief is also needed domestically.
+Persuader: The stand of living in developing nations does not compare with our own.
+Persuader: Most of these nations are war zones and children face this daily threat of violence against them.
+Persuadee: that is true.
+Persuadee: I guess I am naive and like to live in ignorance where it is bliss.
+Persuadee: How do you feel about animal charities?
+Persuader: This is where your donation would help make a difference for these children.
+Persuader: Your donation would assist the Save the Children organization in promoting their mission statement.
+Persuader: Small donations really do add up and make a difference.
+Persuader: Finally, I am also a fan of animal charities.
+Persuadee: That is true that it requires very little money to help children in developing nations.
+Persuadee: So you charity of choice is Save the Children?
+Persuadee: Or do you donate to other ones also?
+Persuader: My charity of choice is Save the Children.
+Persuader: I strongly identify with their causes and goals.
+Persuadee: Do you donate money only?
+Persuadee: Or do you also volunteer your time?
+Persuader: I donate money to this organization and would encourage you to do the same.
+Persuader: Your donation will be directly deducted from your task payment.
+Persuader: You can choose any amount from $0 to all your payment.
+Persuadee: I would be willing to donate 10 cents.
+Persuadee: I make large donations every year so my budget is limited.
+Persuadee: But I do agree with the points you made in support.
+Persuadee: Would you consider volunteering time in addition to money?
+Persuader: I appreciate your help in supporting this cause.
+Persuader: I would consider volunteering my time in addition to the money.
+Persuader: I believe it would be a valuable experience.
+Persuader: What other charities do you support or is your charity of choice?
+Persuadee: My charity of choice is the italian gryhound florida rescue group.
+Persuadee: They save miniture IG dogs.
+Persuadee: I adopted one years ago and she is the best.
+Persuadee: But children's charities are great too.
+Persuadee: Are you familiar with the one where they make dreams come true?
+Persuader: That is great!
+Persuader: Animal charities are pretty great too!
+Persuader: And I'm only familiar with the name with organization that make dreams come true, but nonetheless would like to learn more about them.
+Persuadee: Celebrities often get involved and donate time.
+Persuadee: It's really cool.
+Persuadee: I think Disney World participates too.
+Persuader: That sounds awesome and am glad to see celebrities get involved.
+Persuader: Their involvement often helps to expand these charities' missions.
+Persuadee: For sure.
+Persuadee: It gets the word out and makes people want to follow suit.
+Persuadee: Plus it is good for celebs because it gets people to have soft spots for them.
+Persuader: I definitely agree with all those points.
+Persuader: Their support can make the difference between making a charity reach its goals or not.
+Persuadee: Helping others is necessary and makes you feel good too.","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.10. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+- Maintained a positive and warm conversational tone (average positivity score: 0.32), which creates a comfortable atmosphere for donation decisions.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: emotion-appeal, logical-appeal, self-modeling, donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",234
+20180808-065307_529_live,0,0.0,"Persuader: Hello therehow are you?
+Persuadee: I am good.
+Persuadee: How are you?
+Persuader: I'm pretty good, just trying to get ready for work soon.
+Persuadee: I understand that.
+Persuadee: So tell me about this charity.
+Persuader: Have you heard of Save the Children?
+Persuader: They do work around health, education, etc.
+Persuadee: I'm not sure that I have.
+Persuader: They work mostly in developing countries.
+Persuader: I would appreciate it if some of the funds could be donated.
+Persuader: The researchers will pass that donation on to the charity at the end.
+Persuadee: What kind of work do they do?
+Persuader: They do emergency hunger relief, are engaged with Syrian children.
+Persuadee: Ok, that sounds good.
+Persuadee: How do I know it is a legitimate charity?
+Persuader: you can check their website  URL
+Persuader: They are highly rated by Charity Watch.
+Persuadee: That's good to know.
+Persuadee: How long have they been around?
+Persuader: Almost 100 years!
+Persuadee: That's pretty impressive.
+Persuader: Do you think you would be willing to donate a portion of your earnings?
+Persuadee: I just can't see doing that.
+Persuader: Why do you think that?
+Persuader: There are children dying in Syria who can benefit from the donation.
+Persuadee: I understand that.
+Persuadee: But, I choose my own charities independently.
+Persuader: ok, I understand that.
+Persuader: i hope you have a good day
+Persuadee: Ok, you too!","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- The persuadee showed clear resistance signals (disagree-donation, negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",315
+20180826-174120_426_live,1,0.15,"Persuader: Hi, I would like to speak to you about a wonderful charity called ""save the children"".
+Persuadee: Hey hows it?
+Persuadee: Yeah I am interested to hear more.
+Persuader: When you give to Save the Children, you're investing in a future for every last child.Nearly 90% of every dollar you give goes straight to our mission ??Â¸??Â¸ helping children grow up healthy, learning and safe.
+Persuadee: Nearly 90?
+Persuadee: Where does the other money go?
+Persuader: The rest?
+Persuader: We use to support the mission ??Â¸??Â¸ running our programs and raising funds to help more children.
+Persuadee: Well that is good.
+Persuadee: I like that information out there.
+Persuader: Giving to Save the Children is one of the world's best investments.
+Persuader: Changing children's lives now.
+Persuader: Transforming the future we all share.
+Persuadee: There are many charities for children than just that one.
+Persuader: In 2017 alone, Save the Children reached more than 155 million children in 120 countries, including the U.S.
+Persuader: Results like these are only possible because of giving people like you.
+Persuader: Whether you give a little or a lot.
+Persuader: Every gift makes a world of difference for a child in need.
+Persuadee: Wow thats way more than I would have thought.
+Persuader: I know, it is a really great organization.
+Persuader: Do you think you'd be willing to donate today?
+Persuadee: Yes I would be willing to donate.
+Persuader: How about $.15 today?
+Persuadee: I can do that
+Persuader: Awesome, you are making a world of difference for children around the world.
+Persuadee: Well it is not much but if everyone would give a little it would make a huge difference in this world we live in.
+Persuader: You're absolutely right.
+Persuader: Most people would not even notice the money missing.
+Persuadee: Right on so I will give $0.15  :)
+Persuader: I will match your contribution.
+Persuadee: That is what I like to hear!
+Persuader: I hope you have a wonderful day.
+Persuader: Thank you for your kindness.
+Persuadee: You too,  was a pleasure!","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.15. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, agree-donation, confirm-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: emotion-appeal, logical-appeal, confirm-donation, self-modeling.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",200
+20180723-042226_724_live,1,0.5,"Persuader: Hi there.
+Persuader: How are you today?
+Persuadee: Hello, I am fine, how about you?
+Persuader: Very well thanks.
+Persuader: Do you currently give any money to charity on a regular basis?
+Persuadee: Yes, I try to help time to time
+Persuader: Any charity in particular?
+Persuadee: No, anything that catches my eyes, or I find them on gofundme, what about you?
+Persuader: I have a few payments set up monthly.
+Persuader: I assume then you've heard of Save the Children and the great work they do with young people?
+Persuadee: Yes, I've heard of it.
+Persuadee: Can you please explain more about it?
+Persuader: Firstly, they provide funds and support services to help protect vulnerable children all over the world.
+Persuader: Once the children have a safe environment the next priority is to improve their lives via education and other resources.
+Persuader: They really make a difference to the lives of children in poverty or destitution.
+Persuadee: I am interested in it.
+Persuadee: I already checked their website.
+Persuadee: Health and education both are important factors
+Persuader: Absolutely.
+Persuader: And the great thing for us is that even a very small donation goes a long way due to the number of people who can donate!
+Persuader: We're asking people today to give a small part of the payment for this HIT to the charity.
+Persuader: You'll get a box pop up at teh end of our chat which will give you the opportunity to donate something.
+Persuader: Obviously the more the better, but I also appreciate that you aren't turking for free so you can judge it yourself.
+Persuadee: Actually I like these kind of HITs.
+Persuadee: I did few HITs before that asked me to donate my bonus or half of the reward.
+Persuadee: I happily did.
+Persuadee: I am sure there are people who need it more than me
+Persuader: You're absolutely right-  sometimes we don't realise it, but what seems like a little bit of moeny to us can make a big difference to them.
+Persuader: I worked in Africa earlier this year and the difference a few dollars can make to people over there is unbelievable.
+Persuadee: Yes, few dollars can save a child or can help a family to survive for a month.
+Persuadee: How long have you worked there?
+Persuader: I'm back in the UK now - I was in South Africa (Durban for three months from January to end of March) for work.
+Persuadee: That is so nice of you.
+Persuadee: It is a big thing to do.
+Persuadee: Thinking about starving children makes me so sad.
+Persuadee: I wish I could do more
+Persuader: We can all do something - donate a little bit or volunteer to try to help.
+Persuader: There are lots of opportunities
+Persuadee: Yes you are right, I help as much as I can.
+Persuadee: at least I try.
+Persuadee: save the children sounds like an amazing organization.
+Persuadee: They work in 120 countries already
+Persuader: They certainly do and they are well established so you cna be certain they are going to use the money in a good way.
+Persuadee: Yes It looks like a trustworthy organization with no doubt.
+Persuadee: I already read few of their reports on their website.
+Persuadee: I wish they can help even more countries
+Persuader: Me too.
+Persuader: When we click done that donation box will appear - it should be pretty self-explanatory.
+Persuader: I hope you enjoy the rest of your day.
+Persuader: Thanks again.
+Persuadee: Thank you, I will do it for sure, have a nice day","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.50. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Used personal storytelling effectively — sharing personal narratives builds emotional connection and increases donation likelihood.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: self-modeling, donation-information, personal-story.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",173
+20180808-035431_488_live,1,0.1,"Persuader: Hello, how are you today?
+Persuadee: I'm good.
+Persuadee: What Children's charity would you like to donate money to?
+Persuader: I like to donate, but i have a soft heart for children too.
+Persuader: I recently read about ""Save the Children"" and red more about it.
+Persuadee: Save the Children sounds like a good charity to me as well.
+Persuader: Yes I like how they are clear about their financial reports and They are a big organization
+Persuadee: Clear financial reports are a very good thing.
+Persuadee: They work with children all around the world.
+Persuadee: Correct?
+Persuader: Yes they work in 120 different countries, on different issues.
+Persuadee: Wow, that's amazing.
+Persuadee: Definitely a charity that I could stand behind and support.
+Persuader: Same here, they have many option to help, We can donate or We can participate in their events
+Persuadee: I don't know much about their events.
+Persuadee: But I have money that I can donate.
+Persuader: I usually like to help financially too, since I do not have many off days to join event.
+Persuader: Some of their members even travel to different countries to help in person.
+Persuader: I believe that is a big thing to do
+Persuadee: I wouldn't have the time off to do that.
+Persuadee: But that's pretty cool what they do.
+Persuader: Yes, they are also connected to big companies like IKEA and Walt Disney.
+Persuader: I would like to see part of my purchase will be donated
+Persuadee: Donating part of a purchase is such an easy way for a large amount of people to donate money.
+Persuader: Exactly, I also like how there are HITs which encourage you to donate.
+Persuader: It makes me happy to donate part or all of my bonus
+Persuadee: If it's a charity I believe in that's a great way.
+Persuadee: I donate to many local charities in my city.
+Persuader: that is so nice of you.
+Persuader: like ""Save the Children"" has many options to donate.
+Persuader: You can directly donate through website, It has a minimum amount, but you can also donate part of the HIT reward at the end of the conversation, It can be 0 or 1 cent or any other amount
+Persuadee: I think I'll probably donate at the end of this conversation.
+Persuadee: Will you be doing so as well?
+Persuader: I sure will.
+Persuader: I did it in the past.
+Persuader: and surprisingly my reward did not even change
+Persuadee: I've had similar things happen.
+Persuadee: I'm glad we good agree on a charity to donate to.","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.10. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (disagree-donation, negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: logical-appeal, self-modeling, donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",192
+20180825-090032_956_live,0,0.0,"Persuader: Hi, how are you today?
+Persuader: Have you ever considered donating to Save the Children?
+Persuader: It is a great kids'
+Persuadee: Hi I am fine and yourself?
+Persuader: I'm good.
+Persuader: Save the Children is one of the best children's charities around.
+Persuader: They do really great work.
+Persuadee: Have you ever thought about the benefits from the donations?
+Persuadee: Do the donations actually help the organization?
+Persuader: Yes, they really do.
+Persuader: It is an international organization that promotes children's rights and provides relief in developing countries.
+Persuadee: How long has the organization been established and what is the success rate of the program?
+Persuader: Save the Children is proud to be named one of the MacArthur Foundation 100&Change Charities with Bold Solutions.
+Persuadee: This company looks more like a firm than a charity
+Persuader: Every charity needs to be organized in order to help the people it represents.
+Persuader: It is 100% dedicated to helping children.
+Persuader: You can donate as much or as little as you want.
+Persuader: The cost of a cup of coffee even.
+Persuadee: This is true but alot of charities don't represent the individuals they portray to help.
+Persuader: I agree, there are some bad charities out there.
+Persuader: This is not one.
+Persuader: They have never waivered in their devotion to helping children since they established in 1919.
+Persuadee: Ok if that were true what is their succession rate of getting through to the children or progression rate.
+Persuader: n fiscal year 2017, 86% of all expenditures went to program services.
+Persuader: You can donate by clicking on a link at the end of this task.
+Persuader: Just donating a small portion of your earnings are a big help.
+Persuadee: Thats program services not to the kids themselves.
+Persuadee: Did they provide housing for kids that went against their culture beliefs?
+Persuader: Yes they did.
+Persuader: They use  9 out of every 10 dollars spent  towards programs and services for children and families in need.
+Persuader: They keep administrative costs low so that more funding goes to children's programs.
+Persuadee: And how is the charity promoted?
+Persuadee: Through internet ads?
+Persuader: They mostly use press releases.
+Persuader: I don't really see much in the way of internet ads.
+Persuader: Seriously though,  just think about giving up 1 cup of coffee/drink a day or just donating though the link at the end of this task what you would be making off of it.
+Persuader: Every little bit helps.
+Persuader: Small donations are better than nothing at all!
+Persuadee: They should probable do internet promotion.
+Persuadee: As far as donating I have no problem donating to a greater cause as long as it benefits others short term and long term.
+Persuadee: I don't purchase coffee
+Persuader: Perfect, shall you be donating at the end of this task?
+Persuadee: No i will not until I do further research.","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+- The persuadee showed clear resistance signals (negative-reaction-to-donation, disagree-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",273
+20180826-062356_655_live,0,0.0,"Persuader: hi how are you
+Persuadee: good morning.
+Persuadee: I am well thank you and you?
+Persuader: I'm fine, you've heard about the child support organization
+Persuadee: Is that the organization that is helping single parents obtain support from absent parents?
+Persuader: not a nonprofit organization that helps kids around the world, I've gotten to save $ 100
+Persuadee: I have not heard about it.
+Persuadee: What do you mean you have gotten to save $100,  You are saying it isn't a non profit?
+Persuader: I've donated $ 100 to this organization, sorry
+Persuadee: I see.
+Persuadee: What does the organization provide?
+Persuadee: Is it a non profit?
+Persuader: The Save the Children Fund, commonly known as Save the Children, is an international non-governmental organisation that promotes children's rights, provides relief and helps support children in developing countries.
+Persuadee: I have heard of Save the Children Fund.
+Persuadee: I will be honest, what I had heard though wasnt positive.
+Persuader: yes it is a very positive organisation
+Persuadee: I typically give to local charities that use the funds to help in the community.
+Persuadee: I then can see the money at work.
+Persuadee: I am not saying that world charities are not needed but I rather give to local charities.
+Persuader: i am a person positive and help the children
+Persuadee: It is great to be a helpful person.
+Persuadee: We have a school here in my small town for children from broken homes.
+Persuadee: I typically give to them.
+Persuader: I give a lot of money to the children in need, with pain everywhere they are
+Persuadee: The Children's Hope Alliance in our town provides housing and schooling for children.
+Persuadee: They are strictly non profit so we give what we can including clothes and books.
+Persuader: yes i give very much money
+Persuadee: I know the children are very grateful!
+Persuader: there are the future of the word
+Persuadee: this is true.
+Persuadee: Thank you and have a great day","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Used personal storytelling effectively — sharing personal narratives builds emotional connection and increases donation likelihood.
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",267
+20180825-060251_387_live,1,0.15,"Persuader: Greetings!
+Persuadee: Good morning!
+Persuadee: Have you ever donated to a children's charity?
+Persuader: Oh goodness yes.
+Persuader: I always feel really good about it afterwards.
+Persuader: Have you?
+Persuadee: I have as well.
+Persuadee: Children are the most vulnerable people in our society.
+Persuader: It's a good thing, indeed.
+Persuader: A great organization is   URL
+Persuadee: I haven't heard of this one?
+Persuadee: How does it help children?
+Persuader: For instance, millions of Syrian children have grown up facing the daily threat of violence.
+Persuader: In the first two months of 2018 alone, 1,000 children were reportedly killed or injured in intensifying violence
+Persuadee: That's awful.
+Persuadee: I live in the US and wish we were doing more as a country to help these kids.
+Persuadee: But private donations certainly help.
+Persuader: You should consider that link, explore it, and make a small donation.
+Persuader: Small donations will indeed help a lot of children and their families.
+Persuadee: I'll certainly review it.
+Persuadee: Usually I donate more to charities in my community, but international donations are important too.
+Persuader: Yes, they all are.
+Persuader: All of the children must be taken care of.
+Persuader: I can tell you that your donation right now will make a tangible impact for the world
+Persuadee: Have you donated to this organization?
+Persuadee: I have a small budget but know any amount matters.
+Persuader: Well it's cool that you are using mTurk.
+Persuader: This task makes it really easy for everyone.
+Persuader: How much do you like to donate to the charity now?
+Persuader: Your donation will be directly deducted from your task payment.
+Persuader: You can choose any amount from $0 to all your payment.
+Persuadee: Like this task would donate the mTurk payment to the charity?
+Persuadee: How does that work?
+Persuader: The Requester DAVIS will handle it all, very convenient.
+Persuader: All you have to do is agree to an amount.
+Persuader: Since I can tell you really care, let's wrap up with you agreeing to donate your full amount, and then we can both move on to our next task.
+Persuader: Sounds good to me...how about you?
+Persuadee: Like most people who do mTurk, I do really need the money to pay my bills.
+Persuadee: This is an important cause though.
+Persuadee: I'll agree to pay half.
+Persuader: Excellent.
+Persuader: Enjoy your day....let's go make some serious cash today!
+Persuader: Rock on!
+Persuadee: Hang on though.
+Persuadee: We haven't each done ten responses per the instructions.
+Persuadee: So we should do that to make sure we and the charity get paid right?
+Persuader: Well that certainly makes sense!
+Persuader: Thanks for being aware of that particular nuance.
+Persuader: Rainy morning here.
+Persuadee: Same here.
+Persuadee: This will be ten for each of us.
+Persuadee: Have a great day!","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.15. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, ask-donation-procedure, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: logical-appeal, donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",175
+20180825-044252_786_live,1,0.05,"Persuader: have you heard of ""save the children""
+Persuadee: I think, biut not sure.
+Persuadee: Tell me more.
+Persuader: they help make sure children have the right to health care, education and safety.
+Persuadee: That is such a great cause
+Persuader: yes it is and if you just donated a portion of what you make from this task it would be a big help
+Persuadee: Well, I already donae to other charities so I'm not sure.
+Persuader: I see children everyday even in my community who do not have enough to eat and they are not able to afford to go to the doctor.
+Persuader: The only meal they get are the free meals from school.
+Persuader: It would be worth even 5 or 10 cents to know these children are getting the basic things in life
+Persuadee: Ok, I will do 5 cents of my task money.
+Persuader: thank you so much for this.
+Persuader: if you think about it 5 cents will buy pretty much nothing anymore but to this charity it means so much more.
+Persuader: thanks again
+Persuadee: No problem.
+Persuadee: i know it's not much, but wanted to do something.
+Persuader: every little bit helps.
+Persuader: I know they appreciate any donation big or small
+Persuadee: I hope so, maybe I can do more in the future.
+Persuader: their web address is  URL if you want to check out even more of what they are about
+Persuadee: I would love to do that.
+Persuadee: Then in the future, I can donate more.
+Persuader: they even have something on their site that allows you to sponsor a child.
+Persuader: that might be something that would interest you in the future
+Persuadee: That would defintely interest me.
+Persuadee: The thought of that is very exciting.
+Persuader: another thing on their site is a section that gives you ideas on different fundraisers you could have.
+Persuader: there are some really good ideas that would be fun and for a good cause
+Persuadee: Man, the site sounds good.
+Persuadee: I may want to volunteer my time as well instead of just money.
+Persuader: that would be great.
+Persuader: they are always in need of people to help spread the word about their charity
+Persuadee: Ok, well thank you for your time and telling me about this wonderful organization.
+Persuader: thank you again for the 5 cents donation.
+Persuader: it means a lot","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.05. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Used personal storytelling effectively — sharing personal narratives builds emotional connection and increases donation likelihood.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (disagree-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: personal-story.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",155
+20180825-044358_663_live,0,0.0,"Persuader: Hello, I would like to ask you to consider making a donation to Save the Children, an international NGO committed to promoting children's rights, and providing support for children in developing countries.
+Persuadee: ohh how much donation would yoy expect?
+Persuader: Your donation can be from $0 to all of the payment for this task.
+Persuader: But before you decide hastily, I would like to remind you that Save the Children is one of the only charities doing what it does.
+Persuader: There are children out there now without access to housing, clean water, education, and many other things we often take for granted.
+Persuader: So please, consider thoughtfully whether you would be willing to make a sacrifice for the children of the world.
+Persuadee: how do i trust the organiation?
+Persuader: Save the Children is a world-renowned NGO with a trusted history and background.
+Persuader: You can read about their successes on their website:   URL
+Persuader: Also, they have been given high ratings from different charity watchodgs.
+Persuadee: okay i will check it.. by the way how much did you donate?
+Persuader: I donated $2, which is the maximum payment.
+Persuader: I understand that everyone cannot commit to making a serious donation, but when we think about children suffering, we have a moral imperative to act in their defense.
+Persuadee: okay i will donate $1
+Persuader: If it's not too much to ask, I would like you to consider donating perhaps more.
+Persuader: After all, there are children in Syria now growing up facing threats of violence everyday.
+Persuader: Surely an additional dollar, which we might spend on a cup of coffee or a bag of chips, could more greatly aid them then us.
+Persuadee: no i am okay with this amount
+Persuader: OK, I will not force you to make a decision you don't want to.
+Persuader: I will just ask you to consider how you would feel if your child was danger like many children are.
+Persuadee: actually i am not donating like this.. if i would like to donate money i will give food and clothes to the kids directly
+Persuader: While that is possible in a local community, it fails to take into account the suffering of kids in developing countries around the world, a specialty of Save the Children.
+Persuader: Save the Children maximizes the efficiency of donations so that every dollar makes a difference.
+Persuader: Are you sure you don't want to reconsider?
+Persuadee: yes i am very much sure.
+Persuadee: as of now i am donating $1
+Persuader: Well, we at Save the Children would like to thank you for your donation and let you know that thanks to donors like you, children around the world are thankful
+Persuadee: thank you.
+Persuadee: anything else?
+Persuader: Yes, if you would like more information about programs we accomplish, or to receive our newsletter, we can put you on our mailing list.
+Persuader: It will allow you to stay up to date on programs we accomplish daily
+Persuadee: okay done.. thanks
+Persuader: Thanks very much for your time.
+Persuader: Have a wonderful day!
+Persuadee: same to you :)","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: ask-donation-procedure, ask-org-info, provide-donation-amount, confirm-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Pushed for a larger donation amount after initial agreement — this can feel greedy and risks reversing the persuadee's commitment. It is better to accept the first agreed amount gratefully.
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- The persuadee showed clear resistance signals (disagree-donation-more, negative-reaction-to-donation, disagree-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",359
+20180723-113128_856_live,1,2.0,"Persuader: Hi, how much do you know about Save the Children?
+Persuadee: I'm afraid I don't know anything about Save the Children.
+Persuader: It's an international organization that promotes education, health and safety for all children.
+Persuadee: Oh, that's great!
+Persuadee: What sort of assistance do they offer specifically?
+Persuader: They currently have an initiative to assist children at the Mexican/American border.
+Persuader: They also recently aided children impacted by flooding in Japan.
+Persuadee: Wow, they really help people all around the world.
+Persuadee: Are you at all associated with Save the Children?
+Persuader: I've been a donor and advocate for years.
+Persuader: It's really easy to get involved.
+Persuadee: Oh, really?
+Persuadee: What's the best way to get involved in your opinion?
+Persuader: Considering the monumental need, there is always a need for funding. Even small donations have a huge impact.
+Persuadee: Do you know where I can go to donate?
+Persuader: The research team here can transfer a donation for you.
+Persuadee: That'd be fantastic!
+Persuadee: Do you know where Save the Children mainly operates out of?
+Persuader: The main headquarters is in Fairfield, CT, and there is also office in Washington DC.
+Persuadee: They actually have an office near me then.
+Persuadee: I'd love to visit one of their facilities.
+Persuader: I'm not sure if they do tours, but you can check out their contact info at  URL
+Persuader: There is a lot of info about the organization there.
+Persuadee: Oh, that's unfortunate, but I'll definitely check out all the information on their website.
+Persuader: Excellent!
+Persuader: Would you like to donation a portion of your task payment today to get the ball rolling?
+Persuadee: I would definitely like to make a donation!
+Persuader: Great!
+Persuader: How much would you like to contribute?
+Persuader: You can choose any amount from $0 to all of your payment.
+Persuadee: I'll gladly give all of my payment.
+Persuader: That's fantastic - the children will definitely appreciate it!","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $2.00. Notably, the persuadee showed initial resistance but was eventually convinced, which reflects effective adaptive persuasion by the persuader.
+
+WHAT WORKED:
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: ask-org-info, ask-donation-procedure, agree-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",159
+20180827-051440_378_live,0,0.0,"Persuader: Hello there!
+Persuader: How are you today?
+Persuadee: Hi...
+Persuader: How are you?
+Persuadee: Fine...what about you..?
+Persuader: Doing well myself.
+Persuader: But am upset about something I just learned
+Persuadee: Why....What's happen and which think do you get upset...?
+Persuader: In the first two months of 2018 alone over 1,000 Syrian children died or were injured due to intensifying violence and war.
+Persuader: This makes me so anger and sad!
+Persuader: That innocent children are being harmed over something they have no control over!
+Persuadee: Yea...I am also feel bad that incident...
+Persuader: I fell so bad about it also.
+Persuader: That is why I am going to donate a small amount to the Save The Childrten charity.
+Persuader: Did you know they are actively providing shelter and food to these children in active war zones?
+Persuader: Its a wonderful charity.
+Persuader: And can help these poor children in such a big way.
+Persuader: Would you also like to donate a very small amount?
+Persuadee: Ok ....what kind of charity to provide a donation...?
+Persuader: Its called Save The Children.
+Persuader: Here is their website  URL
+Persuader: How much of your payment today (.30) would you like to donate?
+Persuadee: Yea...I was donate the charity of save the children.....
+Persuader: Your donation will be directly deducted from your task payment.
+Persuader: You can choose any amount from .01 to all your payment today.
+Persuader: How much would you like to donate?
+Persuadee: If did they amount was 0..
+Persuader: your payment today is .30 cnets.
+Persuader: how much of that would you be willing to donate?
+Persuadee: I was donate the amount of 10 cents......
+Persuader: Wonderful!
+Persuader: I am also going to donate .15 cents.
+Persuader: So that will be a total of .25 being donated in this conversation alone.
+Persuader: It will help these children in a big way.
+Persuadee: Yea...It was feel good...what's about you...?
+Persuader: I feel very good donating to this charity.
+Persuader: I hope someday these children will be free from all of this violence
+Persuadee: Yea..It's nice too hear....
+Persuadee: Have a nice day!
+Persuader: Have a nice day!","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, ask-org-info, agree-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",274
+20180903-094545_472_live,0,0.0,"Persuader: Hello how are you today?
+Persuadee: I'm good.
+Persuadee: How are you?
+Persuader: I am doing great!
+Persuader: I am here to let you know about this amazing international foundation called Save the Children that promotes children's rights, provides relief and helps support them in developing countries.
+Persuadee: Please tell me more.
+Persuader: These children are being used in horrific ways, the food and supplies that are supposed to be going to them are being stolen and we are trying to gather money to ensure the supplies get to these children who really need these supplies and help. With a donation today, not only will we be able to ensure the supply lines safely reach villages, but doctors will also go and help the children with medical care they desperately need.
+Persuader: All I ask is that you donate a portion of your task payment to this charity to help the children.
+Persuadee: How do I know this charity is legit?
+Persuader: You are free to look up any information you like at  URL
+Persuadee: How much of the donations goto the children and the effort?
+Persuader: 100% of your donation will go directly to Save the Children.
+Persuader: Just think of it this way, instead of getting your morning coffee, or that bag of chips at lunch, you could donate $2 today and help ensure that 3 children get the care they need and food in their stomachs.
+Persuadee: Does 100% go to the effort directly or does any of the monies go to employees like the director of the charity ect?
+Persuader: The research team will collect all donations and send it all directly to Save the children.
+Persuader: So it will go to pay for the flights to get the team over there, medicine, food, everything needed to help these children
+Persuadee: What roughly is the percentage that goes to the running of the charity and helping the children directly?
+Persuader: Like I said earlier, 100% of your donation goes directly to helping these children.
+Persuader: Look, already in 2018 alone, 1,000 children have been reportedly killed or injured in intensifying violence.
+Persuader: They need your help.
+Persuader: They need your donation more than you do honestly.
+Persuader: What is $2 to you when that money can literally save lives over there?
+Persuadee: There are many scams out there that take more to profit then to actually help the kids.
+Persuadee: I need to know these things before I donate even if it is as little as $2.
+Persuader: You can go to the website I provided you earlier to know in your heart that this is not a scam.
+Persuader: Can I count on you to help these children?
+Persuader: Are you willing to trust me enough to donate your task payment to help these children?
+Persuadee: I do not know in my heart that this is not a scam.
+Persuadee: I have been scammed before.
+Persuadee: That is why i am asking you for the details.
+Persuadee: Againwhat  roughly is the percentage that goes to the running of the charity and helping the children directly?
+Persuader: I went to the website and looked up the actual numbers.
+Persuader: 86.5% of donations goes directly to the villages and the rest goes to fund the outreach, website, and publicity. it is a non-profit organization. You don't have to donate the entire amount of your task payment. you can choose any amount from nothing to the $2. I am just hoping you would be gracious to help these children enough to give the $2 and give them a fighting chance. I really believe you know this isn't a scam
+Persuadee: How do you donate?
+Persuader: This chat is being recorded, you Tell me how much you would like to donate and I will give it to the research team for them to deduct it from your task payment and send it to Save the Children.
+Persuader: How much would you like to donate today?
+Persuadee: I am still not 100% confident this isn't a scam as it is all done via the computer and not face to face.
+Persuader: Would you like to take a few minutes to go over the website first before you commit?","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: ask-org-info, ask-donation-procedure, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",331
+20180824-022709_450_live,0,0.0,"Persuader: Hello, How you doing
+Persuadee: Great thanks, Im here to talk about the childrens charity.
+Persuader: Yes, Hope you aware whats going with child who died from hunger
+Persuadee: I am mostly aware yes.
+Persuadee: This is why i would love to donate an amount.
+Persuader: You are such a good personality ..
+Persuader: How much do you like to donate to the charity now?
+Persuader: Your donation will be directly deducted from your task payment.
+Persuader: You can choose any amount from $0 to all your payment.
+Persuadee: I not sure, how many children are in need of a donation?
+Persuadee: This will impact my decision on how much to give.
+Persuader: 1000 childrens at the first slot
+Persuadee: Right, it will probably have to be 80% of my task payment then.
+Persuadee: I'd love to help 1000 children.
+Persuader: Thanks so much.
+Persuadee: No problem, what day is the charity meet up then?
+Persuader: We will circulate the information to all the volunteers soon .
+Persuadee: Great, and can i bring family members to the donation event?
+Persuader: Sure , everyone are welcome
+Persuadee: Great what time is it on?
+Persuader: Falls on morning timeslot and venue details will be shared shortly after we cosolidated the donators
+Persuadee: Okay great, is there parking for the venue or should i get a taxi there?
+Persuader: You will have a parking slot available .
+Persuader: However, based on our venue finalization we can check the feasability for everyone.
+Persuadee: Thanks.
+Persuadee: Just to confirm, I'm donating 80% of my task amount.
+Persuader: sure thanks again
+Persuadee: Thanks very much, nice speaking to you.","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, agree-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",265
+20180826-013529_897_live,1,5.0,"Persuader: Hey, do some good, give some money to kids.
+Persuadee: Sure.I would be glad to. How much money do you think I should give?
+Persuader: oh, could you afford maybe fifteen cents?
+Persuadee: I can afford $5.00
+Persuader: that sounds pretty good, I would definitely accept that
+Persuadee: How much would you donate?
+Persuader: well, I'll match your 5.00, does that sound cool?
+Persuadee: Yeah, that sounds great. I love donating to charity. I think it is important to help those less fortunate.
+Persuader: yes there are so many in terrible need
+Persuadee: I donate a portion of my paychecks to feed the children. Do you have a favorite charity?
+Persuader: yes I like to give to doctors without borders, they risk their lives to go where they are most needed
+Persuadee: Oh wow, I would also be interested in donating to that.
+Persuader: there are so many wars and so many natural disasters
+Persuadee: It really breaks my heart. I wish I could help everyone in need.
+Persuader: it is so hard to make a choice
+Persuadee: I feel bad about only giving $5, do you think we should give more?
+Persuader: wish that we could, but like all working on MTurk we are poor ourselves
+Persuadee: Very true. $5 it is. At least we are giving something. Most people wouldn't.
+Persuader: yes that is so true, so often it is just left to governments to do
+Persuadee: If everyone would just give something, everyone could have food and a warm place to sleep.","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $5.00. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: agree-donation, provide-donation-amount, ask-donation-procedure, positive-reaction-to-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: self-modeling, logical-appeal, emotion-appeal.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",165
+20180719-211301_463_live,0,0.0,"Persuader: Have you heard of the Save The Children Foundation?
+Persuadee: No, I have not.
+Persuadee: Can you tell me about it?
+Persuader: They ensure children's rights to health, education, safety, etc.
+Persuadee: Is it just in one country, or do they work around the world?
+Persuader: Yes.
+Persuader: For example, the child refugees from Syria.
+Persuader: In the first two months of this year, 1000 kids were killed in Syria.
+Persuader: Crazy.
+Persuadee: That's so sad.
+Persuadee: I wish I could do something to help.
+Persuader: Have you ever donated to a charity?
+Persuadee: Yeah, a few local charities.
+Persuadee: Like our animal shelter, a low income housing group, foster care organziations, etc
+Persuader: That's very nice of you.
+Persuader: If you'd like to get a better idea of what Save The Children does, and how to possibly donate, you can visit their website at  URL
+Persuadee: I'll definitely check them out.
+Persuadee: Any organization that helps kids is one worth supporting, either with my own time or with money.
+Persuader: I feel the same way.
+Persuader: How much would you be willing to donate to Save the Children?
+Persuadee: I can't afford a lot right now because I have other bills, but I could probably do $5 now with more next month.
+Persuader: That's great!
+Persuader: And generous.
+Persuader: Thank you.
+Persuader: That will make a huge impact.
+Persuadee: It feels like so little, but if a lot of people do just a little bit, it really adds up!
+Persuader: It really does.
+Persuader: It's difficult to know nowadays if your money is actually going to the children.
+Persuader: Save the Children seems to be a very trustable fund.
+Persuadee: Yeah I agree.
+Persuadee: If I donate, even a little, I want it to actually go towards what it should, not just lining the pockets of the CEO.
+Persuader: Indeed.
+Persuader: What would you prefer to see your $5 go to specifically?
+Persuader: Medicine, safety, etc?
+Persuadee: I think I would like to see my donation go towards medical care.
+Persuadee: At least my initial donation.
+Persuadee: I know how hard it can be to be healthy, so I want to help kids get the treatments they need.
+Persuader: That's a great sentiment.
+Persuader: I appreciate the chat and your willingness to donate.
+Persuadee: Yeah, you're welcome.
+Persuadee: Thank you for introducing me to another great charity that is trying to do good work.
+Persuadee: Not only in the USA, but around the world.
+Persuader: Have a great evening!","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+- Maintained a positive and warm conversational tone (average positivity score: 0.36), which creates a comfortable atmosphere for donation decisions.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",300
+20180826-174957_757_live,1,0.2,"Persuader: I think out of all charities saving the children is most important one as children make the future.
+Persuader: Hope you agree
+Persuadee: I definitely agree
+Persuader: this is good as you agree with opinion as everyone should do the same
+Persuadee: Yes - providing funding for children is a top priority, whatever the need may be
+Persuader: I usually put some money for this cause yearly
+Persuadee: What kind of children's charities do you think are the most important?
+Persuader: I think children below the poverty line is most important
+Persuadee: Yes - someone needs to be looking out for those children!
+Persuader: I say, if you have enough than give to others
+Persuader: basic education is very important to have a good future
+Persuadee: Important to make sure their basic needs are met too -- food, clothing and shelter
+Persuader: what is the good amout you think
+Persuadee: It depends, should this be a monthly donation or annual?
+Persuader: annually one time payment
+Persuadee: Ok, sounds good.
+Persuader: I think a range between $100 - $250 would be appropriate
+Persuader: would you like to donate something from your task payment for this cause
+Persuadee: Not without knowing the exact organization
+Persuader: URL   Also I will donate the same amount whatever you decide
+Persuadee: I am unclear as to whether or not this is a real donation or just discussion for the sake of the task
+Persuader: Whatever you want to donate from your task money
+Persuadee: I will donate 20 cents
+Persuader: thanks will do the same","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.20. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, provide-donation-amount, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: logical-appeal, self-modeling, donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",192
+20180723-091419_371_live,1,0.25,"Persuader: Have you ever heard of Save the Children?
+Persuadee: I haven't!
+Persuader: It's basically what it sounds like
+Persuadee: What kind of situations do they work with?
+Persuader: The organization helps children around the world with life, protecting them, coming to their aid when a crisis arises, helping them when necessary.
+Persuadee: That sounds like an awesome organization!
+Persuadee: Do you know how someone can get involved?
+Persuader: They have a website.
+Persuader: You can also make a .50 cent donation through me from your compensation of this hit.
+Persuader: The donation will go towards food and/or aiding them with their health.
+Persuadee: That's simple enough.
+Persuadee: I like the sound of that!
+Persuadee: Have you ever personally worked with them?
+Persuader: I have made donations in the past, yes.
+Persuader: It made me feel good to know that I could provide some type of help especially because I have children of my own.
+Persuader: The research team will collect all donations and send it to Save the Children.
+Persuadee: Gotcha!
+Persuadee: I also have a child, so I understand where you're coming from.
+Persuadee: I have a soft spot for children in general.
+Persuader: Same!
+Persuader: Especially less fortunate children.
+Persuadee: Absolutely!
+Persuadee: I always think about how I would want to know my child is cared for if I'm not around.
+Persuadee: It's definitely a motivator!
+Persuader: I agree.
+Persuader: This is one of my favorite organizations to donate to and they're well known and have done so much for children all over.
+Persuadee: That's good to know that they're reputable.
+Persuadee: Sometimes I'm cautious of donating, just because I want to know that they're making the difference that they saw they are.
+Persuader: At least here we know the researchers are making the donations through this hit.
+Persuadee: It is nice to know that!
+Persuader: So you'd like to donate?!
+Persuadee: Yes, I would :)
+Persuader: Awesome!
+Persuader: Thank you so much :)
+Persuadee: Oh yeah, absolutely!!","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.25. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Used personal storytelling effectively — sharing personal narratives builds emotional connection and increases donation likelihood.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: ask-org-info, positive-reaction-to-donation, agree-donation, indicating the persuader's approach resonated at key moments.
+- Maintained a positive and warm conversational tone (average positivity score: 0.31), which creates a comfortable atmosphere for donation decisions.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: donation-information, personal-story, self-modeling.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",194
+20180825-092012_333_live,0,0.0,"Persuader: are you going to donate
+Persuadee: Donate to what charity?
+Persuader: children's charity this one
+Persuadee: Well, I would prefer to hear more about the charity, their work and how much of their donations go to direct work with these children.
+Persuadee: Tell me more info otherwise you can donate to the charities that I know do extraordinary work and spend most of their donations on the children
+Persuader: to help save children that are less fortunate then most children.
+Persuadee: Well theres a charity called Skateistan that is championed by the famous skater Tony Hawk And the majority of their donations go to direct service and help children out all of the world whom live in the most vulnerable situations.
+Persuadee: If I donate to this charity your talking about I need to know the name and information to agree to a donation
+Persuader: save the children
+Persuadee: How many children do they serve each year and how much of a donation are you talking about?
+Persuadee: where is the money going?
+Persuader: the money is going to the children
+Persuadee: How much of a donation are you talking about?
+Persuadee: are they buying new schoolls with this money, new books, clothes, shelter or is the president of the charity using my donation to get a mercedes benz?
+Persuader: like 5 dollars
+Persuadee: what will you do with this money.
+Persuadee: Please be specific about how it will help these children that save the children claims to be saving?
+Persuadee: I am an informed donor and want to make sure my money is really helping these children
+Persuader: the research team will collect all donations and send it to save the children
+Persuadee: It sounds like my money won't be used to directly help the children.
+Persuadee: What does 5 dollars get these children?
+Persuadee: and what country or countries are these children located in
+Persuader: im not really sure
+Persuadee: Well, is this a lobal charity that will be using my money to spread across their whole organization or will it help buy these children new schools which is a cause that I am really passionate about?
+Persuadee: How do YOU feel about the work this organization does?
+Persuader: its for the children
+Persuadee: Have you ever donated to this organization and if so, how much?
+Persuader: no i havent but i will today
+Persuadee: How much will you be donating?
+Persuadee: Depending on the amountI will match your donation but ONLY if you answer the following question: How do you feel about the organizations work?
+Persuadee: What do you dislike about the organization","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: ask-org-info, ask-donation-procedure, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+- The persuadee showed clear resistance signals (negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+2. Use the foot-in-the-door technique — start by asking for a very small amount (e.g. $0.10) before gradually working up. Small initial commitments are psychologically easier to agree to.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",294
+20180826-070323_186_live,0,0.0,"Persuader: Hi!
+Persuader: How are you doing today?
+Persuadee: Good, thanks!
+Persuadee: How are you?
+Persuader: I am doing well thank you.
+Persuader: Do you ever donate to charity?
+Persuadee: In the past few years I rarely have.
+Persuader: I know, it can be hard to donate. especially in today's society, but a tiny amount, even less than a dollar, can go a long way
+Persuadee: That seems so hard to believe, but I guess lots of pennies still add up!
+Persuader: Exactly, I feel the same way sometimes, but think if everyone in the US gave a nickel, that's over 16 million dollars
+Persuadee: Wow, that definitely puts it in perspective!
+Persuader: There are so many charities too, but I believe that children are the future, and we need to do what we can to help them have fulfilling lives
+Persuadee: I agree with you!
+Persuader: Have you ever volunteered?
+Persuader: It's another way to help without having to spend any money
+Persuadee: I have!
+Persuadee: I used to volunteer often, but I have so little time it feels like now!
+Persuader: Time and money these days can be scarce!
+Persuader: But think about the little things you buy, and maybe one week, instead of buying that bad of chips or cup of coffee, donate it to the children
+Persuadee: You're right!
+Persuadee: It doesn't take much sacrifice to think of small ways to help!
+Persuader: And think of all the kiddies you will be helping!
+Persuadee: Haha that's true!
+Persuader: do you think you will donate today?
+Persuadee: I think so!
+Persuader: How much would you like to donate?
+Persuadee: I'm not sure!
+Persuadee: What is the range of options?","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, agree-donation, ask-donation-procedure, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",251
+20180719-211253_768_live,1,0.5,"Persuader: Hey, good to be chatting with you tonight.
+Persuadee: Hi!
+Persuadee: Looking forward chatting with you too.
+Persuader: I'd like to talk to use about a vulnerable group.
+Persuader: Do you have a moment?
+Persuadee: Yes, I do
+Persuader: I'd like to talk about children.
+Persuader: What was life like for you growing up?
+Persuader: Did you have to worry about your basic needs at all?
+Persuader: Like food, place to live, safety, etc?
+Persuadee: There were periods in my childhood when money was very short and we had our telephone or power cut off, but I always had a safe place to live and food to eat.
+Persuader: It is really difficult having to grow up having to worry about basic needs.
+Persuader: I'm glad you are able to look for what to be grateful for.
+Persuadee: What was life like for you growing up?
+Persuadee: Did you have any worries about food, shelter, safety, etc.?
+Persuader: I guess there are more people than we know who grew up with no worries.
+Persuader: I grew up worrying about my safety and whether I'd have a place to live.
+Persuader: My dad was a gambling addict.
+Persuadee: I don't have any experiences like that but I'm sure it must have been very difficult and scary to go through that as a child.
+Persuader: Thank you.
+Persuader: I really appreciate your sympathizing, and I'm glad I got to share that with someone.
+Persuadee: Did you ever use the services of any organizations for children to help you through the rough times?
+Persuader: No I didn't, but I now donate to them.
+Persuader: What about you?
+Persuadee: No, I didn't either.
+Persuadee: My family would just get through somehow.
+Persuadee: I have made donations in the past, but our money is bit tight since I'm a stay-at-home mom right now.
+Persuadee: If I make donations now, they are in-kind donations rather than monetary donations.
+Persuadee: What organizations do you donate to?
+Persuadee: I tend to make donations to a emergency children's shelter.
+Persuader: That's understandable.
+Persuader: We all do what we can to help each other.
+Persuader: I donate to Save the Children.
+Persuader: Have you heard about them?
+Persuadee: Yes, I have.
+Persuader: That's great.
+Persuader: Also, did you know that not only are they helping children worldwide, they're helping children very near to us?
+Persuadee: No, I didn't know that they are helping children near to us.
+Persuadee: Do you mean in the USA?
+Persuader: No actually, at the border.
+Persuader: Children were separated at the US-Mexico border from their parents, and Save the Children are working on getting them back to their family.
+Persuadee: I didn't realize that.
+Persuadee: I've been following the news about family separations very closely.
+Persuadee: I'm glad organizations like Save the Children are helping.
+Persuader: Would you like to help and donate to them?
+Persuader: Your donation will be directly deducted from your task payment.
+Persuader: ou can choose any amount from $0 to all your payment.
+Persuadee: Sure, I will donate 50 cents to them.","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.50. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Used personal storytelling effectively — sharing personal narratives builds emotional connection and increases donation likelihood.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Used self-modeling by expressing personal donation intent, which creates social proof and encourages the persuadee to follow.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, ask-org-info, agree-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: emotion-appeal, personal-story, self-modeling, donation-information.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",196
+20180826-064104_677_live,0,0.0,"Persuader: Good morning!
+Persuader: How are you today?
+Persuadee: I am doing fine.
+Persuadee: How about you?
+Persuader: I am doing well!
+Persuader: What are your plans for today?
+Persuadee: Complete surveys.
+Persuadee: You?
+Persuader: Oh, the same.
+Persuader: Maybe spend some time outside.
+Persuader: It looks nice.
+Persuader: I am wondering, have you hear of the Save the Children charity?
+Persuadee: I have heard about it.
+Persuader: Oh that is great!
+Persuader: I was on their website today and saw that they do a lot of great work to help kids out that are in need.
+Persuader: They are always looking for donations.
+Persuader: Are you willing to give even $0.10 of today's pay to help?
+Persuadee: Sure.
+Persuadee: That would be fine.
+Persuader: Can you confirm your donation in a number amount with the $ sign, just to avoid confusion?
+Persuadee: Is this okay?
+Persuader: Ooops, it looks like it did not show up, can you try again?
+Persuader: Thank you!
+Persuader: It will really help the kids in need!
+Persuadee: $0.10-Can you see this?
+Persuader: Yes!
+Persuader: Yes I can!
+Persuader: That worked out.
+Persuader: Have you heard about all of the storms/flooding in Hawaii?
+Persuadee: Yes.
+Persuadee: I have.
+Persuader: Well, then you will be interested to know that the STC website is already pledging to help these kids out!
+Persuader: Have you ever been on their website?
+Persuadee: No.
+Persuadee: I have not.
+Persuader: I went on today and really learned a lot.
+Persuader: Would you be surprised to find their home base is in CT?
+Persuadee: Yes.
+Persuadee: I would.
+Persuader: I was as well!
+Persuader: I figured they would be in a more prominent area!
+Persuader: So, just to confirm today I can count on you for $0.10?
+Persuadee: That would be fine.","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Used personal storytelling effectively — sharing personal narratives builds emotional connection and increases donation likelihood.
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Elicited positive persuadee responses including: agree-donation, confirm-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Lacked emotional appeal — purely informational approaches are less effective. Describing the real human impact on individual children is more persuasive than statistics alone.
+
+SPECIFIC SUGGESTIONS:
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",214
+20180825-063009_943_live,0,0.0,"Persuader: Hi WOuld you like to donate your payment for this task to save the children?
+Persuadee: No, to be honest I am doing this task to save up extra money for myself.
+Persuader: I understand that.
+Persuader: But it's only .30 of the money you are saving.
+Persuader: It could do alot of good for Save the children.
+Persuadee: I appreciate your position, but what exactly is Save the Children and how do I know that money will truly be used to help kids?
+Persuader: The researchers of this hit will make sure the money goes to save the children.
+Persuader: Save the Children is a world wide organization that helps kids in war torn areas.
+Persuadee: It sounds like a good idea, but I often get peppered with requests to donate money to various charities -- when I donate I do it to causes that I know about.
+Persuadee: If I donated to every cause I would be giving away a lot of money and I already lose 20% to taxes.
+Persuader: Your right, but I'm not asking for much.
+Persuader: It's only .30 cents and It will do alot to help.
+Persuadee: What exactly would that 30 cents be used for and how would it help?
+Persuadee: What part of the world will it go to?
+Persuader: It would go all over the world!
+Persuader: The money is used to promote childrens rights and provide food and medicine.
+Persuadee: I have to respectfully question the necessity -- don't my taxes already go towards billions of dollars of foreign aid?
+Persuadee: And why do so many of these countries continually need help?
+Persuader: Well, lets get specific.
+Persuader: Have you seen the kids in Syria?
+Persuadee: I have seen some of the images and video of the civil war there.
+Persuader: Those kids are growing up in tents and being bombed every day.
+Persuadee: True -- but how much money is currently being provided by US and NATO to help?
+Persuader: They have provided the tents.
+Persuader: Still it isn't enough.
+Persuader: The kids there are struggling.
+Persuadee: I have to question that they have provided only tents.
+Persuadee: Many countries have absorbed many refugees and I am fairly certain that way more aid than tents has been provided.
+Persuader: True, but there - the kids are lucky to get a meal a day.
+Persuader: Save the children helps with that.
+Persuadee: It may -- but at this point I really still have no idea what Save the Children is and I would want to research it anyway before I would agree to give money to it.
+Persuader: I think thats a good idea.
+Persuadee: Additionally, I am just very skeptical of any organization that asks for money.
+Persuadee: I never know who is in charge, who is taking what, and where the money truly goes.","OVERALL PERFORMANCE:
+This persuasion conversation was unsuccessful — the persuadee did not donate. While the persuader made genuine efforts, the approach had gaps that prevented the persuadee from committing to a donation.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: ask-org-info, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- Did not use personal storytelling — conversations without personal narratives show significantly lower donation rates. Sharing a story creates emotional investment in the cause.
+- The persuadee showed clear resistance signals (disagree-donation, negative-reaction-to-donation) that were not adequately addressed. When resistance appears, switching strategy — for example from logical to emotional appeal — is more effective than repeating the same approach.
+
+SPECIFIC SUGGESTIONS:
+1. Open with a brief personal story or specific example of a child helped by Save the Children before making any donation request. This creates emotional buy-in before asking for commitment.
+3. Mention your own intention to donate. Social modeling is highly effective — people are more likely to donate when they see others doing so.
+4. When the persuadee resists, do not repeat the same strategy. Identify which aspect they object to and address that specific concern with a different approach (logical → emotional → personal).
+5. End the conversation with a concrete, low-barrier ask: 'Even $0.25 makes a real difference for a child today.' Specific small amounts are easier to commit to than open-ended requests.",302
+20180826-212714_597_live,1,0.15,"Persuader: Have you heard of Save the Children?
+Persuadee: no i have not but i am interested!
+Persuader: Cool, it's international and non governmental.
+Persuader: It helps children and their families.
+Persuader: Are you still interested?
+Persuadee: yes i am very interested!
+Persuader: If you donate you can help many children.
+Persuader: Can I count on your support?
+Persuadee: yes of course!
+Persuadee: how much?
+Persuader: You can choose any amount from $0 to all your payment.
+Persuader: Your donation will be directly deducted from your task payment
+Persuadee: ok then i will donate half 15 cents
+Persuader: Cool, Thanks for your donation of $0.15 The research team will collect all donations and send it to Save the Children.
+Persuader: Any other questions?
+Persuadee: no i dont think so i love the cause!
+Persuader: have you checked out the site yet?
+Persuadee: yes im looking at it now actually it seems like a great foundation
+Persuader: yes it does
+Persuadee: ok so we agreed on a price?
+Persuader: yes we are 0.15 is it right?
+Persuadee: yes 0.15 is correcr
+Persuader: yes again yhanks
+Persuadee: ok thank you sounds good,
+Persuader: alright i believe that;'s it
+Persuadee: yes how do we end it?","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.15. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: ask-org-info, agree-donation, ask-donation-procedure, provide-donation-amount, confirm-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: logical-appeal, donation-information, confirm-donation.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",159
+20180826-065245_39_live,1,0.1,"Persuader: Hello there, how are you doing today?
+Persuadee: I'm great, thanks.
+Persuadee: How are you?
+Persuader: I'm doing swell, thanks for asking!
+Persuader: So how do you feel about children?
+Persuadee: I love children.
+Persuadee: I believe they are our future and should be taken care of in the best possible way.
+Persuader: That's great!
+Persuader: I happen to agree!
+Persuader: Do you have any children yourself, or do you plan to in the future?
+Persuadee: I do not have children of my own and am not able to have them.
+Persuadee: I am contemplating adoption for the future.
+Persuader: Oh, that's wonderful!
+Persuader: So many kids out there need a home, after all!
+Persuader: There are so many issues today with children, all over the world!
+Persuader: For instance, did you know that in the first two months of 2018 alone, over 1k children were killed or injured in intensifying violence?
+Persuadee: Wow, that is a staggering amount.
+Persuadee: I did not know that.
+Persuadee: I am a big fan of organizations who take care of the needs of hurt children.
+Persuader: Oh?
+Persuader: That\'s awesome!
+Persuader: I assume you\'ve heard about the organization called ""Save the Children"" then?
+Persuadee: I have!
+Persuadee: They seem to be doing a good job.
+Persuader: That, they do!
+Persuader: Did you know they've won over 7 different awards for their charitable work?
+Persuader: As a former foster kid, it makes me happy to see this place bring such awareness to the issues and needs of our young.
+Persuadee: I am not surprised to hear that at all.
+Persuadee: Children should not have to do through so much tragedy and devastation at such young ages. It is great that others are looking out for them.
+Persuader: Absolutely!
+Persuader: In fact, you can even help!
+Persuader: If you want to make a small donation from your task payment, I'm sure it would be greatly appreciated!
+Persuader: You can donate just a few cents, or even the whole amount of your final payout if you choose!
+Persuadee: I probably will do that.
+Persuadee: If everyone did something, it helps the bigger overall picture and they are so worth it.
+Persuader: Absolutely!
+Persuader: I mean, we already spend money on small snacks or a coffee we could forgo, why not give it to a charitable cause?
+Persuader: How noble of you!
+Persuadee: I just know that if I were a child in need, I would be grateful for all the help I could get.
+Persuader: Absolutely!
+Persuader: I remember being in a group home as a kid, and a bunch of ladies had made blankets and hats for us.
+Persuader: I still have the blanket I was made to this day!
+Persuader: A little goes a long way :)
+Persuadee: Wow, that is so good to hear.
+Persuadee: I'm sure it is not easy for organizations to get charitable work done but I am grateful they try and that others get involved.
+Persuadee: Kuddos to them!
+Persuader: Yeah, it really is humbling to watch society ban together and help each other!
+Persuader: Either way, I'm sure Save the Children will appreciate your donation, and be able to save many more children in the future.
+Persuader: You have a good day!
+Persuadee: The life of a child is always worth saving.
+Persuadee: You have a good day as well.","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.10. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Used personal storytelling effectively — sharing personal narratives builds emotional connection and increases donation likelihood.
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: positive-reaction-to-donation, agree-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: emotion-appeal, donation-information, logical-appeal, personal-story.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",194
+20180808-030454_242_live,1,0.25,"Persuader: Hello, how are you today?
+Persuadee: hi,it was another day
+Persuader: I see, same here for me.
+Persuader: Have you every tried donation through HITs?
+Persuadee: ya recently i too tried children's charity regarding their studies.
+Persuadee: it makes me good
+Persuader: I usually donate a good part of my bonus in different studies, but I specially have a soft heart for children.
+Persuader: Have you ever heard about ""Save the Children"" before?
+Persuadee: children must be educated i didn\'t heard about  ""save the children"" what is the procedure of giving donation?
+Persuader: They work on different issues in almost 120 countries.
+Persuader: They work on education, hunger, health and emergency issues.
+Persuadee: really it is pleased to hear this who s taking care of this charity?
+Persuadee: how they managing in 120 countries?
+Persuader: they either have parties, or they travel to those countries.
+Persuader: There are big groups working with them, like IKEA and Walt Disney Studios.
+Persuader: you can read more on this link:  URL s/about-us/leadership-and-trustees
+Persuadee: sure i will check this link.
+Persuadee: is there any procedure to join as a member in that group?
+Persuadee: even a normal people from middle class can join in that group?
+Persuader: I believe everyone can join to help.
+Persuader: I've talked to someone who worked there and she already traveled to Africa.
+Persuader: I would be so pleased to try it but I do not have enough off days to join.
+Persuadee: people who have king heart must join as a member or sponsor a child i too refer some friends in m y circle
+Persuader: I know right, It is a big thing to do.
+Persuader: some people donate whole their life and time.
+Persuader: I like how they managed to donate through HITs too, since website has minimum amount option, but through HIT you can even help 1 cent and more
+Persuadee: i asked in the previous chat what is the procedure to donate?
+Persuader: On the website there is a link to donate: https://support. URL ite/Donation2?df_id=1620&1620.donation=form1
+Persuadee: okay i have a check is it any discloser of our identity in donating low or high amount
+Persuader: No, itt will be anonymously.
+Persuader: You can also donate at the end of this HIT, It can be any amount even 0, You'll be asked.
+Persuadee: whetehr i acn trust this charity?
+Persuadee: from the begining you ae talking about this chaarity only not others are you a member of this charity?
+Persuadee: there is no other children charity ?
+Persuader: I donated before, since they have very clear financial reports on their website and they are connected to other big organizations I trust them.
+Persuader: I am not a member, but i donate.
+Persuader: I mean I am not aware of other charities i can trust.
+Persuader: There are a few for sure.
+Persuadee: ohh thats nice of you surely i too have an opinion in this charity and i will donate as much i can possible and share with my friends
+Persuader: Thank you for your time and effort.
+Persuader: It was such a pleasure to chat with you.
+Persuader: Have a good night, take care :)","OVERALL PERFORMANCE:
+This was a successful persuasion conversation — the persuadee donated $0.25. The persuader maintained a positive tone throughout and guided the persuadee toward a donation decision effectively.
+
+WHAT WORKED:
+- Used personal storytelling effectively — sharing personal narratives builds emotional connection and increases donation likelihood.
+- Incorporated logical arguments and factual information about the cause, which helps persuadees who prefer evidence-based reasoning.
+- Made emotional appeals to highlight the impact on children, which is one of the most effective strategies in charity persuasion.
+- Established credibility by providing factual information about Save the Children's mission and track record.
+- Clearly explained the donation procedure, which reduces friction and increases the persuadee's confidence in taking action.
+- Elicited positive persuadee responses including: ask-donation-procedure, ask-org-info, positive-reaction-to-donation, agree-donation, indicating the persuader's approach resonated at key moments.
+
+AREAS FOR IMPROVEMENT:
+- No major weaknesses identified. The conversation achieved its goal while maintaining a respectful and engaging tone.
+
+SPECIFIC SUGGESTIONS:
+1. This conversation can serve as a model for future persuasion attempts. The key elements that worked were: personal-story, donation-information, emotion-appeal, logical-appeal.
+2. Document which specific turn led to the persuadee's agreement and replicate that approach in future conversations.",196
