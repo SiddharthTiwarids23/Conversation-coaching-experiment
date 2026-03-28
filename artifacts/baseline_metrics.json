@@ -1,0 +1,24 @@
+{
+  "model": "Qwen/Qwen3.5-9B",
+  "quantization": "4-bit NF4",
+  "test_conversations": 45,
+  "failed_conversations": 0,
+  "failed_ids": [],
+  "output_word_count": {
+    "mean": 279.4,
+    "median": 279.0,
+    "min": 251,
+    "max": 313,
+    "std": 13.6
+  },
+  "input_tokens": {
+    "mean": 780.5,
+    "median": 713.0,
+    "min": 462,
+    "max": 1316
+  },
+  "inference_time_s": {
+    "mean": 63.9,
+    "total": 2875.4
+  }
+}
