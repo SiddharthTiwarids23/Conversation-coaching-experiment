@@ -6,10 +6,10 @@
   "failed_ids": [],
   "output_word_count": {
     "mean": 279.4,
-    "median": 279.0,
-    "min": 251,
-    "max": 313,
-    "std": 13.6
+    "median": 278.0,
+    "min": 249,
+    "max": 361,
+    "std": 18.3
   },
   "input_tokens": {
     "mean": 780.5,
@@ -18,7 +18,7 @@
     "max": 1316
   },
   "inference_time_s": {
-    "mean": 63.9,
-    "total": 2875.4
+    "mean": 68.83,
+    "total": 3097.27
   }
 }
