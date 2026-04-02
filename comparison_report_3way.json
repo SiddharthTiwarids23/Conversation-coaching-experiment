@@ -1,0 +1,44 @@
+{
+  "experiment": "3-Way Comparison: 9B Instruct vs 4B Fine-tuned vs 9B Fine-tuned",
+  "test_conversations": 45,
+  "rouge": {
+    "baseline": {
+      "rouge1": 0.3478,
+      "rouge2": 0.0458,
+      "rougeL": 0.1305
+    },
+    "finetuned_4b": {
+      "rouge1": 0.582,
+      "rouge2": 0.3339,
+      "rougeL": 0.3693
+    },
+    "finetuned_9b": {
+      "rouge1": 0.569,
+      "rouge2": 0.3198,
+      "rougeL": 0.3523
+    }
+  },
+  "quality": {
+    "baseline": {
+      "overall_%": 100.0,
+      "strengths_%": 100.0,
+      "weaknesses_%": 100.0,
+      "suggestions_%": 100.0,
+      "avg_words": 272.4
+    },
+    "finetuned_4b": {
+      "overall_%": 100.0,
+      "strengths_%": 100.0,
+      "weaknesses_%": 100.0,
+      "suggestions_%": 100.0,
+      "avg_words": 299.6
+    },
+    "finetuned_9b": {
+      "overall_%": 100.0,
+      "strengths_%": 100.0,
+      "weaknesses_%": 100.0,
+      "suggestions_%": 100.0,
+      "avg_words": 314.4
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "experiment": "3-Way Evaluation: 9B Instruct vs 4B Fine-tuned vs 9B Fine-tuned",
+  "test_conversations": 45,
+  "donated_count": 22,
+  "not_donated_count": 23,
+  "rouge": {
+    "9B Instruct": {
+      "rouge1": 0.3478,
+      "rouge2": 0.0458,
+      "rougeL": 0.1305
+    },
+    "4B Fine-tuned": {
+      "rouge1": 0.582,
+      "rouge2": 0.3339,
+      "rougeL": 0.3693
+    },
+    "9B Fine-tuned": {
+      "rouge1": 0.569,
+      "rouge2": 0.3198,
+      "rougeL": 0.3523
+    }
+  },
+  "bertscore": {
+    "9B Instruct": {
+      "precision": 0.7689,
+      "recall": 0.8202,
+      "f1": 0.7937
+    },
+    "4B Fine-tuned": {
+      "precision": 0.8826,
+      "recall": 0.8993,
+      "f1": 0.8908
+    },
+    "9B Fine-tuned": {
+      "precision": 0.8804,
+      "recall": 0.8933,
+      "f1": 0.8868
+    }
+  },
+  "bleu_meteor": {
+    "9B Instruct": {
+      "bleu": 0.0096,
+      "meteor": 0.2328
+    },
+    "4B Fine-tuned": {
+      "bleu": 0.2735,
+      "meteor": 0.501
+    },
+    "9B Fine-tuned": {
+      "bleu": 0.2503,
+      "meteor": 0.4974
+    }
+  },
+  "structural_quality": {
+    "9B Instruct": {
+      "overall_performance": 100.0,
+      "what_worked": 100.0,
+      "areas_for_improvement": 100.0,
+      "suggestions": 100.0,
+      "all_4_sections": 100.0
+    },
+    "4B Fine-tuned": {
+      "overall_performance": 100.0,
+      "what_worked": 100.0,
+      "areas_for_improvement": 100.0,
+      "suggestions": 100.0,
+      "all_4_sections": 100.0
+    },
+    "9B Fine-tuned": {
+      "overall_performance": 100.0,
+      "what_worked": 100.0,
+      "areas_for_improvement": 100.0,
+      "suggestions": 100.0,
+      "all_4_sections": 100.0
+    }
+  },
+  "domain_vocabulary": {
+    "9B Instruct": {
+      "avg_terms": 2.51,
+      "zero_term_outputs": 0
+    },
+    "4B Fine-tuned": {
+      "avg_terms": 11.6,
+      "zero_term_outputs": 0
+    },
+    "9B Fine-tuned": {
+      "avg_terms": 10.98,
+      "zero_term_outputs": 0
+    }
+  },
+  "length": {
+    "Reference": {
+      "mean": 235.3,
+      "median": 220.0
+    },
+    "9B Instruct": {
+      "mean": 272.4,
+      "median": 272.0
+    },
+    "4B Fine-tuned": {
+      "mean": 299.6,
+      "median": 299.0
+    },
+    "9B Fine-tuned": {
+      "mean": 314.4,
+      "median": 318.0
+    }
+  },
+  "metric_wins": {
+    "9B Instruct": 2,
+    "4B Fine-tuned": 7,
+    "9B Fine-tuned": 0
+  }
+}
